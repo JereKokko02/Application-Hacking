@@ -19,6 +19,5 @@
    ## Mitä mieltä olet podcastin väittämistä?
    <br />
 testi string
-<br />
-<br />
+
 # d) Tehty jo aikaisemminkin. Onnistui taas! >:D
