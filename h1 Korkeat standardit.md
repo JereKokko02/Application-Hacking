@@ -1,0 +1,21 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# d) Tehty jo aikaisemminkin. Onnistui taas! >:D
