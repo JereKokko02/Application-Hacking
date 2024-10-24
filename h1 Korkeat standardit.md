@@ -52,7 +52,7 @@ Loi verkkosivun.
 <br/>
 <br/>
 
-# Lähteet joita on myös hyödynnetty tehtävän yhteydessä:
+# Lähteet joita on myös hyödynnetty tehtävien yhteydessä:
 
 ## 1. https://www.savelan.fi/mita-tarkoittaa-hallinnollinen-tietoturva/ | Luettu 24.10.2024.
 
