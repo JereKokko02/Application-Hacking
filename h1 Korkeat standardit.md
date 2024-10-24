@@ -28,9 +28,9 @@
 3. Automaatiotestaus on ohjelmiston tietoturvan kannalta erittäin tärkeää.
   -
 
-
-
-
+<br/>
+<br/>
+<br/>
 
 # d) Asenna Debian 12-Bookworm virtuaalikoneeseen.
 
