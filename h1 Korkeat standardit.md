@@ -42,7 +42,7 @@ Mitä hämähäkki teki tietokoneella?
 
 <br/>
 
-Loi verkkosivun.
+Loi verkkosivun. 🕷️🕸️
 
 <br/>
 <br/>
