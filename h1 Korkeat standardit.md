@@ -16,8 +16,9 @@
 
 # c) Kuunneltu podcast (Laatulöpinät-podcast: Tietoturvallisuus ohjelmistokehityksessä 25.10.2021. Kuunneltu 12.10.2024): [Linkki](https://www.arter.fi/podcast/laatulopinat-podcast-tietoturvallisuus-ohjelmistokehityksessa-tarkastele-kokonaisuutta-ja-hyodynna-viitekehykset/)
   
-   ## Mitä mieltä olet podcastin väittämistä?
-   
+## Mitä mieltä olet podcastin väittämistä?
+
+<br/>
 
 1. Mikään ohjelmisto ei ole täysin tietoturvallinen.
    - Olen samaa mieltä Kokkolan kanssa siitä ettei mikään ohjelmisto ole täysin tietoturvallinen. On vain olemassa ohjelmistoja jotka hoitavat tietoturvan paremmin kuin toiset ohjelmistot. Aina löytyy jokin haavoittuvaisuus!
