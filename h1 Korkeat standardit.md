@@ -34,12 +34,16 @@
 
 # d) Tehty jo aikaisemminkin. Onnistui taas! >:D
 
+
+
+
+
+
 # muita pohdintoja:
 
 Ekana tärkein, eli:
 
 ETELÄ-KARJALA MAINITTU SATAMASSA TAVATAAN!
-LPR HONOR!
 <br />
 ![image](https://github.com/user-attachments/assets/a56b8673-7337-4cf2-8734-f0744c610f71)
 ![image](https://github.com/user-attachments/assets/b4f9271d-9a7a-4093-ae57-31b9ceb7b347)
