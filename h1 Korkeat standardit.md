@@ -32,7 +32,12 @@
 
 
 
-# d) Tehty jo aikaisemminkin. Onnistui taas! >:D
+# d) Asenna Debian 12-Bookworm virtuaalikoneeseen.
+
+Tehty onnistuneesti aikaisemman osaamisen avulla. En keksi mitään muuta kirjoitettavaa joten tässä puujalkavitsi: 
+<br/>
+Mitä hämähäkki teki tietokoneella?
+Loi verkkosivun.
 
 <br/>
 <br/>
