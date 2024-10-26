@@ -10,7 +10,11 @@
 
 
 
-#b) b) Tutustu standardiin ISO 27034-1 - 5. Selvitä mistä standardi kokonaisuudesta on kyse.
+# b) Tutustu standardiin ISO 27034-1 - 5. Selvitä mistä standardi kokonaisuudesta on kyse.
+
+<br/>
+
+ISO 27034-1 - 5 Standardissa on kyse...
 
 <br/>
 <br/>
