@@ -105,9 +105,9 @@ Loi verkkosivun. 🕷️🕸️
 
 ### 2. Sovellusten hakkerointi ja haavoittuvuudet - ICI012AS3A-3001 -kurssin materiaali: "ISO27034-1-1719737070995" PDF-tiedosto. | Luettu 26.10.2024
 
-### 3. Laatulöpinät-podcast: Tietoturvallisuus ohjelmistokehityksessä 25.10.2021. (https://www.arter.fi/podcast/laatulopinat-podcast-tietoturvallisuus-ohjelmistokehityksessa-tarkastele-kokonaisuutta-ja-hyodynna-viitekehykset/) | Kuunneltu 12.10.2024
+### 3. Laatulöpinät-podcast: Tietoturvallisuus ohjelmistokehityksessä 25.10.2021. https://www.arter.fi/podcast/laatulopinat-podcast-tietoturvallisuus-ohjelmistokehityksessa-tarkastele-kokonaisuutta-ja-hyodynna-viitekehykset/ | Kuunneltu 12.10.2024
 
-### 4. Savelan.fi Mitä tarkoittaa hallinnollinen tietoturva? (https://www.savelan.fi/mita-tarkoittaa-hallinnollinen-tietoturva/) | Luettu 24.10.2024.
+### 4. Savelan.fi Mitä tarkoittaa hallinnollinen tietoturva? https://www.savelan.fi/mita-tarkoittaa-hallinnollinen-tietoturva/ | Luettu 24.10.2024.
 
 ### 5. https://github.com/akx/markdown-cheatsheet-fi/blob/master/Markdown-Ohje.md. | Kerrattu Markdownin käyttö 22.10.2024.
 
