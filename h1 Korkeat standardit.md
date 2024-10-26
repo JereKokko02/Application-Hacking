@@ -101,11 +101,11 @@ Loi verkkosivun. 🕷️🕸️
 
 # Lähteet joita on myös hyödynnetty tehtävien yhteydessä:
 
-## 1. Sovellusten hakkerointi ja haavoittuvuudet - ICI012AS3A-3001 -kurssin materiaali: "ISO27000-2020-en.pdf" PDF-tiedosto.             | Luettu 26.10.2024
+## 1. Sovellusten hakkerointi ja haavoittuvuudet - ICI012AS3A-3001 -kurssin materiaali: "ISO27000-2020-en.pdf" PDF-tiedosto. | Luettu 26.10.2024
 
-## 2. Sovellusten hakkerointi ja haavoittuvuudet - ICI012AS3A-3001 -kurssin materiaali: "ISO27034-1-1719737070995" PDF-tiedosto.         | Luettu 26.10.2024
+## 2. Sovellusten hakkerointi ja haavoittuvuudet - ICI012AS3A-3001 -kurssin materiaali: "ISO27034-1-1719737070995" PDF-tiedosto. | Luettu 26.10.2024
 
-## 3. Laatulöpinät-podcast: Tietoturvallisuus ohjelmistokehityksessä 25.10.2021. (https://www.arter.fi/podcast/laatulopinat-podcast-tietoturvallisuus-ohjelmistokehityksessa-tarkastele-kokonaisuutta-ja-hyodynna-viitekehykset/)| Kuunneltu 12.10.2024
+## 3. Laatulöpinät-podcast: Tietoturvallisuus ohjelmistokehityksessä 25.10.2021. (https://www.arter.fi/podcast/laatulopinat-podcast-tietoturvallisuus-ohjelmistokehityksessa-tarkastele-kokonaisuutta-ja-hyodynna-viitekehykset/) | Kuunneltu 12.10.2024
 
 ## 3. Savelan.fi Mitä tarkoittaa hallinnollinen tietoturva? (https://www.savelan.fi/mita-tarkoittaa-hallinnollinen-tietoturva/) | Luettu 24.10.2024.
 
