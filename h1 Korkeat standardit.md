@@ -10,7 +10,7 @@
 
 
 
-# b) Tutustu standardiin ISO 27034-1 - 5. Selvitä mistä standardi kokonaisuudesta on kyse.
+# b) Tutustu standardiin ISO 27034-1 - 5. Selvitä mistä standardi kokonaisuudesta on kyse. Huom. katso lähdeluettelo lähde 2.
 
 <br/>
 
@@ -22,8 +22,7 @@ ISO 27034-1 - 5 Standardissa on kyse...
 
 
 
-# c) Kuunneltu podcast (Laatulöpinät-podcast: Tietoturvallisuus ohjelmistokehityksessä 25.10.2021. Kuunneltu 12.10.2024): [Linkki](https://www.arter.fi/podcast/laatulopinat-podcast-tietoturvallisuus-ohjelmistokehityksessa-tarkastele-kokonaisuutta-ja-hyodynna-viitekehykset/)
-  
+# c) Kuuntele podcast. Huom. katso lähdeluettelo lähde 3.
 ## Mitä mieltä olet podcastin väittämistä?
 
 <br/>
@@ -102,7 +101,10 @@ Loi verkkosivun. 🕷️🕸️
 
 # Lähteet joita on myös hyödynnetty tehtävien yhteydessä:
 
-## 1. https://www.savelan.fi/mita-tarkoittaa-hallinnollinen-tietoturva/ | Luettu 24.10.2024.
-## 2. https://github.com/akx/markdown-cheatsheet-fi/blob/master/Markdown-Ohje.md | Kerrattu Markdownin käyttö 22.10.2024.
+## 1. Sovellusten hakkerointi ja haavoittuvuudet - ICI012AS3A-3001 -kurssin materiaali: "ISO27000-2020-en.pdf" PDF-tiedosto.             | Luettu 26.10.2024
+## 2. Sovellusten hakkerointi ja haavoittuvuudet - ICI012AS3A-3001 -kurssin materiaali: "ISO27034-1-1719737070995" PDF-tiedosto.         | Luettu 26.10.2024
+## 3. Laatulöpinät-podcast: Tietoturvallisuus ohjelmistokehityksessä 25.10.2021.                                                         | Kuunneltu 12.10.2024
+## 3. https://www.savelan.fi/mita-tarkoittaa-hallinnollinen-tietoturva/.                                                                 | Luettu 24.10.2024.
+## 4. https://github.com/akx/markdown-cheatsheet-fi/blob/master/Markdown-Ohje.md.                                                        | Kerrattu Markdownin käyttö 22.10.2024.
 
 
