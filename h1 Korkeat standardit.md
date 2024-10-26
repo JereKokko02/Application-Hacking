@@ -13,7 +13,7 @@
 <br/>
 
 - 3.2: Hyökkäys on keino tuhota, paljastaa, muokata, poistaa käytöstä, saada luvatta haltuunsa, tai käyttää luvatta omaisuutta.
-- 3.31: Tietoturvaloukkaus on tapahtuma jossa omaisuutta varastetaan tai sen varastaminen tehdään mahdolliseksi tietoturvahyökkäyksen johdosta.
+- 3.31: Tietoturvaloukkaus on tapahtuma jossa omaisuutta varastetaan tai sen varastaminen tehdään mahdolliseksi tietoturvahyökkäyksen ansiosta.
 - 3.56: Vaatimus on sovittu kriteeri joka vaaditaan jokaisen allekirjoittaneen organisaation  täytettäväksi, tai se on itsestään selvä toimenpide joka täytyy suorittaa.
 - 3.58: Tarkistus on toimenpide jolla tarkastetaan vaatimusten noudattaminen.
 - 3.77: Haavoittuvuus on kohde jota voidaan hyödyntää rikolliseen toimintaan. Haavoittuvuus mahdollistaa hyökkäyksen.
