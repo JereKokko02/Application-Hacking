@@ -40,7 +40,7 @@
 
 <br/>
 
-  - Minusta automaatiotestaus on tietoturvan kannalta tärkeää, sillä se usein poistaa ihmisvirheen mahdollisuuden (Jos siis testaus suoritetaan ohjelmilla jotka on todettu toimiviksi). Tämän lisäksi automaatiotestaus nopeuttaa ja sulavoittaa testausprosessia --> projekti pysyy aikataulussa.
+  - Minusta automaatiotestaus on tietoturvan kannalta tärkeää, sillä se usein poistaa ihmisvirheen prosessista (Jos siis testaus suoritetaan ohjelmilla jotka on todettu toimiviksi). Tämän lisäksi automaatiotestaus nopeuttaa ja sulavoittaa testausprosessia --> projekti pysyy aikataulussa.
 
 <br/>
 
@@ -77,5 +77,6 @@ Loi verkkosivun. 🕷️🕸️
 # Lähteet joita on myös hyödynnetty tehtävien yhteydessä:
 
 ## 1. https://www.savelan.fi/mita-tarkoittaa-hallinnollinen-tietoturva/ | Luettu 24.10.2024.
+## 2. https://github.com/akx/markdown-cheatsheet-fi/blob/master/Markdown-Ohje.md | Kerrattu Markdownin käyttö 22.10.2024.
 
 
