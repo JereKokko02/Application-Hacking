@@ -48,15 +48,23 @@
 
 <br/>
 
-   - Olen samaa mieltä. Itsekin olen joutunut kirjoittamaan monet salasanat *trial-and-error* metodilla läpi kun olen rekistöröitynyt uuteen palveluun. Itse asiassa olen kirjautunut elämäni aikana tasan yhteen palveluun jossa salasanan kriteerit oli täydellisesti imoitettu rekisteröitymisvaiheessa. Itsestäni tuntuu että tällaiset käytettävyyteen negatiivisesti vaikuttavat tietoturvatoimet johtuvat siitä, että a) Tietoturvakriteereitä ei ole selvästi suunniteltu suunnitteluvaiheessa, tai b) niitä on lähdetty toteuttamaan pilke silmäkulmassa ja koko homma on lähtenyt käsistä.
+   - Olen samaa mieltä. Itsekin olen joutunut kirjoittamaan monet salasanat *trial-and-error* metodilla läpi kun olen rekistöröitynyt uuteen palveluun. Itse asiassa olen kirjautunut elämäni aikana tasan yhteen palveluun jossa salasanan kriteerit oli täydellisesti ilmoitettu rekisteröitymisvaiheessa. Itsestäni tuntuu että tällaiset käytettävyyteen negatiivisesti vaikuttavat tietoturvatoimet johtuvat siitä, että a) Tietoturvakriteereitä ei ole selvästi suunniteltu suunnitteluvaiheessa, tai b) niitä on lähdetty toteuttamaan pilke silmäkulmassa ja koko homma on lähtenyt käsistä.
 
 <br/>
 
-### Ohjelmiston tietoturvallisuuden suunnitteluun vaikuttaa paljolti se, kuinka arkaluonteisia tietoja ohjelmistolla on tarkoitus käsitellä.
+### 5. *Ohjelmiston tietoturvallisuuden suunnitteluun vaikuttaa paljolti se, kuinka arkaluonteisia tietoja ohjelmistolla on tarkoitus käsitellä.*
 
 <br/>
 
-  - 
+  - Tästä väittämästä olen samaa mieltä. Arkaluonteinen materiaalihan ei tarkoita esimerkiksi potilastietoja tai henkilötietoja, vaan se kattaa kaiken sen materiaalin jonka katoamisella on suuri vaikutus henkilöön tai henkilöihin. Eli siis liiketoimintasalaisuudet, patentit, liiketoiminnalle tärkeät tiedostot jne, luokitellaan arkaluontoisiksi materiaaleiksi. Ja aina kun käsitellään Arkaluontoista materiaalia, pitää sen tietoturva suunnitella jo suunnitteluvaiheessa sillä se voi vaatia erikoisratkaisuja.
+
+<br/>
+
+### 6. *Ohjelmistokehittäjät näkevät omat ohjelmistonsa aina merkittävästi riskialttiimpina, kuin muiden tekemät ohjelmistot.*
+
+<br/>
+
+  - Olen eri mieltä väittämän kanssa. Mielestäni tässä väittämässä on enemmän kyse ohjelmistokehittäjän kokemuksesta. Juniorikehittäjä ei ole saanut vielä tarpeeksi kokemusta että voisi pitää omia ohjelmistojaan Fort Knoxin seuraajina. Veteraanikehittäjä taas tietää todennäköisemmin oman koodinsa vahvuudet ja heikkoudet ja voi täten verrata niitä toisten tekemiin ohjelmistoihin. Voidaankin siis sanoa että väittämä on totta Juniorikehittäjän kohdalla.
 
 
 
