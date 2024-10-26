@@ -1,9 +1,12 @@
-Tähän tulee intro kappale!!!!!
+# Tämä tiedosto sisältää Sovellusten hakkerointi ja haavoittuvuudet -kurssin ensimmäisen viikon tehtävän *H1 korkeat standardit* vastaukset. 
 
-
-
-
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 # a) Tutustu kurssin sanastoon, joka on määritelty SFS-EN ISO/IEC 27000:2020:en standardissa, kappaleessa 3. Terms and Definitions. Selvitä seuraavien kappaleiden määritteet ja selitä omin sanoin mitä ne tarkoittavat: 3.2, 3.31, 3.56, 3.58, 3.77
 
