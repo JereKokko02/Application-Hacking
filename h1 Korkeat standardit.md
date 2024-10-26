@@ -18,6 +18,9 @@
 - 3.58: Tarkistus on toimenpide jolla tarkastetaan vaatimusten noudattaminen.
 - 3.77: Haavoittuvuus on kohde jota voidaan hyödyntää rikolliseen toimintaan. Haavoittuvuus mahdollistaa hyökkäyksen.
 
+<br/>
+<br/>
+<br/>
 
 
 
@@ -86,11 +89,11 @@ Pähkinänkuoressa ISO 27034 standardin osat 1-5 antavat siis organisaatiolle pe
 
   - Olen eri mieltä väittämän kanssa. Mielestäni tässä väittämässä on enemmän kyse ohjelmistokehittäjän kokemuksesta. Juniorikehittäjä ei ole saanut vielä tarpeeksi kokemusta että voisi pitää omia ohjelmistojaan Fort Knoxin seuraajina. Veteraanikehittäjä taas tietää todennäköisemmin oman koodinsa vahvuudet ja heikkoudet ja voi täten verrata niitä toisten tekemiin ohjelmistoihin. Sanoisinkin siis, että väittämä on totta Juniorikehittäjän kohdalla.
 
+<br/>
+<br/>
+<br/>
 
 
-<br/>
-<br/>
-<br/>
 
 # d) Asenna Debian 12-Bookworm virtuaalikoneeseen.
 
