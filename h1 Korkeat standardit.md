@@ -24,7 +24,7 @@
 
 <br/>
 
-   V: Olen samaa mieltä Kokkolan kanssa siitä ettei mikään ohjelmisto ole täysin tietoturvallinen. On vain olemassa ohjelmistoja jotka hoitavat tietoturvan paremmin kuin toiset ohjelmistot. Aina löytyy jokin haavoittuvaisuus!
+   - Olen samaa mieltä Kokkolan kanssa siitä ettei mikään ohjelmisto ole täysin tietoturvallinen. On vain olemassa ohjelmistoja jotka hoitavat tietoturvan paremmin kuin toiset ohjelmistot. Aina löytyy jokin haavoittuvaisuus!
   
 <br/>
   
