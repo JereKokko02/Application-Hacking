@@ -40,7 +40,7 @@
 
 <br/>
 
-  - Minusta automaatiotestaus on tietoturvan kannalta tärkeää, sillä se usein poistaa ihmisvirheen prosessista (Jos siis testaus suoritetaan ohjelmilla jotka on todettu toimiviksi). Tämän lisäksi automaatiotestaus nopeuttaa ja sulavoittaa testausprosessia --> projekti pysyy aikataulussa.
+  - Minusta automaatiotestaus on tietoturvan kannalta tärkeää, sillä se usein poistaa ihmisvirheen prosessista (Jos siis testaus suoritetaan ohjelmilla jotka on todettu toimiviksi). Tämän lisäksi automaatiotestaus nopeuttaa ja sulavoittaa testausprosessia --> projekti pysyy aikataulussa. Tämän lisäksi koneet löytävät myös kooditasolla / laitteistotasolla myös ne ongelmat joita ihminen ei edes kykene näkemään.
 
 <br/>
 
@@ -56,7 +56,7 @@
 
 # d) Asenna Debian 12-Bookworm virtuaalikoneeseen.
 
-Tehty onnistuneesti aikaisemman osaamisen avulla. En keksi mitään muuta kirjoitettavaa joten tässä puujalkavitsi: 
+Tehty onnistuneesti aikaisempaa osaamista hyödyntäen. En keksi mitään muuta kirjoitettavaa joten tässä puujalkavitsi: 
 
 <br/>
 
