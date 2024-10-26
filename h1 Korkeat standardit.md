@@ -10,7 +10,11 @@
 
 
 
+#b) b) Tutustu standardiin ISO 27034-1 - 5. Selvitä mistä standardi kokonaisuudesta on kyse.
 
+<br/>
+<br/>
+<br/>
 
 
 
@@ -64,11 +68,7 @@
 
 <br/>
 
-  - Olen eri mieltä väittämän kanssa. Mielestäni tässä väittämässä on enemmän kyse ohjelmistokehittäjän kokemuksesta. Juniorikehittäjä ei ole saanut vielä tarpeeksi kokemusta että voisi pitää omia ohjelmistojaan Fort Knoxin seuraajina. Veteraanikehittäjä taas tietää todennäköisemmin oman koodinsa vahvuudet ja heikkoudet ja voi täten verrata niitä toisten tekemiin ohjelmistoihin. Voidaankin siis sanoa että väittämä on totta Juniorikehittäjän kohdalla.
-
-
-
-
+  - Olen eri mieltä väittämän kanssa. Mielestäni tässä väittämässä on enemmän kyse ohjelmistokehittäjän kokemuksesta. Juniorikehittäjä ei ole saanut vielä tarpeeksi kokemusta että voisi pitää omia ohjelmistojaan Fort Knoxin seuraajina. Veteraanikehittäjä taas tietää todennäköisemmin oman koodinsa vahvuudet ja heikkoudet ja voi täten verrata niitä toisten tekemiin ohjelmistoihin. Sanoisinkin siis, että väittämä on totta Juniorikehittäjän kohdalla.
 
 
 
