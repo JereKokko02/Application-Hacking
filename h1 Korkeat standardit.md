@@ -1,11 +1,19 @@
+Tähän tulee intro kappale!!!!!
 
 
 
 
 
 
+# a) Tutustu kurssin sanastoon, joka on määritelty SFS-EN ISO/IEC 27000:2020:en standardissa, kappaleessa 3. Terms and Definitions. Selvitä seuraavien kappaleiden määritteet ja selitä omin sanoin mitä ne tarkoittavat: 3.2, 3.31, 3.56, 3.58, 3.77
 
+<br/>
 
+- 3.2: Hyökkäys on keino tuhota, paljastaa, muokata, poistaa käytöstä, saada luvatta haltuunsa, tai käyttää luvatta omaisuutta.
+- 3.31: Tietoturvaloukkaus on tapahtuma jossa omaisuutta varastetaan tai sen varastaminen tehdään mahdolliseksi tietoturvahyökkäyksen johdosta.
+- 3.56: Vaatimus on sovittu kriteeri joka vaaditaan jokaisen allekirjoittaneen organisaation  täytettäväksi, tai se on itsestään selvä toimenpide joka täytyy suorittaa.
+- 3.58: Tarkistus on toimenpide jolla tarkastetaan vaatimusten noudattaminen.
+- 3.77: Haavoittuvuus on kohde jota voidaan hyödyntää rikolliseen toimintaan. Haavoittuvuus mahdollistaa hyökkäyksen.
 
 
 
@@ -14,7 +22,9 @@
 
 <br/>
 
-ISO 27034-1 - 5 Standardissa on kyse...
+ISO 27034 on standardi joka sisältää kuusi osaa. Nämä osat ovat: 1. Yleiskatsaus ja käsitteet, 2. Organisaation normatiiviset puitteet, 3. Sovelluksen tietoturvan hallintaprosessi, 4. Sovelluksen suojauksen validointi, 5. Protokollat ​​ja sovellusten suojauksen hallintatietorakenne, sekä 6. Turvallisuusohjeet tiettyjä sovelluksia varten. Yhdessä nämä osat antavat ohjeet sekä täytettävät kriteerit organisaatiolle ISO 27034 standardin käyttöönotolle.
+
+Pähkinänkuoressa ISO 27034 standardin osat 1-5 antavat siis organisaatiolle perustan kyseisen standardin sovellusturvan hallintaan.
 
 <br/>
 <br/>
