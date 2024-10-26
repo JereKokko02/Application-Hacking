@@ -40,7 +40,7 @@
 
 <br/>
 
-  - Minusta automaatiotestaus on tietoturvan kannalta tärkeää, sillä se usein poistaa ihmisvirheen prosessista (Jos siis testaus suoritetaan ohjelmilla jotka on todettu toimiviksi). Tämän lisäksi automaatiotestaus nopeuttaa ja sulavoittaa testausprosessia --> projekti pysyy aikataulussa. Tämän lisäksi koneet löytävät myös kooditasolla / laitteistotasolla myös ne ongelmat joita ihminen ei edes kykene näkemään.
+  - Minusta automaatiotestaus on tietoturvan kannalta tärkeää, sillä se usein poistaa ihmisvirheen prosessista (Jos siis testaus suoritetaan ohjelmilla jotka on todettu toimiviksi). Tämän lisäksi automaatiotestaus nopeuttaa ja sulavoittaa testausprosessia --> projekti pysyy aikataulussa. Tämän lisäksi koneet löytävät myös kooditasolla / laitteistotasolla myös ne ongelmat joita ihminen ei edes kykene näkemään. Kuitenkin kuten Kokkolakin podcastissa toteaa, automaatiotestauksellakin on haittapuoli juuri esimerkiksi koodin lukemisessa. Ohjelma toki sanoo että koodi toimii, mutta se voi olla täysin spagettikoodia ihmisen silmille. Testauksella pitää siis olla selvä tarkoitus --> yhteydessä hallinnollisuuteen!
 
 <br/>
 
@@ -48,7 +48,21 @@
 
 <br/>
 
-   -
+   - Olen samaa mieltä. Itsekin olen joutunut kirjoittamaan monet salasanat *trial-and-error* metodilla läpi kun olen rekistöröitynyt uuteen palveluun. Itse asiassa olen kirjautunut elämäni aikana tasan yhteen palveluun jossa salasanan kriteerit oli täydellisesti imoitettu rekisteröitymisvaiheessa. Itsestäni tuntuu että tällaiset käytettävyyteen negatiivisesti vaikuttavat tietoturvatoimet johtuvat siitä, että a) Tietoturvakriteereitä ei ole selvästi suunniteltu suunnitteluvaiheessa, tai b) niitä on lähdetty toteuttamaan pilke silmäkulmassa ja koko homma on lähtenyt käsistä.
+
+<br/>
+
+### Ohjelmiston tietoturvallisuuden suunnitteluun vaikuttaa paljolti se, kuinka arkaluonteisia tietoja ohjelmistolla on tarkoitus käsitellä.
+
+<br/>
+
+  - 
+
+
+
+
+
+
 
 <br/>
 <br/>
