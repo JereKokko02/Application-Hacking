@@ -127,7 +127,7 @@ Loi verkkosivun. 🕷️🕸️
 <br/>
 <br/>
 
-# Lähteet joita on myös hyödynnetty tehtävien yhteydessä:
+# Lähteet joita on myös käytetty / hyödynnetty tehtävien yhteydessä:
 
 ### 1. Sovellusten hakkerointi ja haavoittuvuudet - ICI012AS3A-3001 -kurssin materiaali: "ISO27000-2020-en.pdf" PDF-tiedosto. | Luettu 26.10.2024
 
