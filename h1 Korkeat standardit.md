@@ -10,7 +10,7 @@
 
 
 
-# b) Tutustu standardiin ISO 27034-1 - 5. Selvitä mistä standardi kokonaisuudesta on kyse. Huom. katso lähdeluettelo lähde 2.
+# b) Tutustu standardiin ISO 27034-1 - 5. Selvitä mistä standardi kokonaisuudesta on kyse.
 
 <br/>
 
@@ -22,7 +22,7 @@ ISO 27034-1 - 5 Standardissa on kyse...
 
 
 
-# c) Kuuntele podcast. Huom. katso lähdeluettelo lähde 3.
+# c) Kuuntele podcast: Meurman 2021. Laatulöpinät 30.
 ## Mitä mieltä olet podcastin väittämistä?
 
 <br/>
