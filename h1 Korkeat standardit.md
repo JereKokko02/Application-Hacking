@@ -20,7 +20,7 @@
 
 <br/>
 
-1. *Mikään ohjelmisto ei ole täysin tietoturvallinen.*
+### 1. *Mikään ohjelmisto ei ole täysin tietoturvallinen.*
 
 <br/>
 
@@ -28,7 +28,7 @@
   
 <br/>
   
-2. *Hallinnollinen tietoturva on teknisen tietoturvan onnistumisen edellytys.*
+### 2. *Hallinnollinen tietoturva on teknisen tietoturvan onnistumisen edellytys.*
 
 <br/>
 
@@ -36,10 +36,10 @@
 
 <br/>
 
-3. *Automaatiotestaus on ohjelmiston tietoturvan kannalta erittäin tärkeää.*
+### 3. *Automaatiotestaus on ohjelmiston tietoturvan kannalta erittäin tärkeää.*
   - Minusta automaatiotestaus on tietoturvan kannalta tärkeää, sillä se usein poistaa ihmisvirheen mahdollisuuden (Jos siis testaus suoritetaan ohjelmilla jotka on todettu toimiviksi). Tämän lisäksi automaatiotestaus nopeuttaa ja sulavoittaa testausprosessia --> projekti pysyy aikataulussa.
 
-4. *Ohjelmistoa suunniteltaessa voidaan tehdä paljonkin auttamaan käyttäjää toimimaan tietoturvallisesti. Usein nämä toimenpiteet kuitenkin vaikuttavat negatiivisesti käytettävyyteen.*
+### 4. *Ohjelmistoa suunniteltaessa voidaan tehdä paljonkin auttamaan käyttäjää toimimaan tietoturvallisesti. Usein nämä toimenpiteet kuitenkin vaikuttavat negatiivisesti käytettävyyteen.*
    -
 
 <br/>
