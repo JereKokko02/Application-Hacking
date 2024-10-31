@@ -16,7 +16,7 @@
 
 
 
-# Vitsi
+# Pakollinen Vitsi
 ## Miksi Mersun ohjekirja on niin paksu?
 <br/>
 <br/>
