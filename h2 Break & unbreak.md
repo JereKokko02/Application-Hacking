@@ -30,7 +30,7 @@
   - Luettavuus ja täsmällisyys on tärkeintä! --> Muuten tekstistä ei saa selvää tai se ei  vastaa kaikkiin kysymyksiin.
   - Pahin moka akateemisissa tuotoksissa on plagiointi oli se sitten tapahtunut vahingossa tai ei!
   - Jos tuotos on ohje, se pitää olla kattava jotta lukija pääsee samaan lopputulokseen pelkkien ohjeiden avulla.
-  - 
+
 <br/>
 
 ## Vapaaehtoinen: PortSwigger 2020: What is SQL injection?
