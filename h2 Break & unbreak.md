@@ -1,8 +1,30 @@
 # x) Lue/katso/kuuntele ja tiivistä.
-
-
-
-
+<br/>
+## OWASP: OWASP Top 10
+  -
+  -
+  -
+  -
+<br/>
+## Karvinen 2023: Find Hidden Web Directories
+  -
+  -
+  -
+  -
+<br/>
+## PortSwigger:
+  -
+  -
+  -
+  -
+<br/>
+## Karvinen 2006: Raportin kirjoittaminen
+  -
+  -
+  -
+  -
+<br/>
+## Vapaaehtoinen: PortSwigger 2020: What is SQL injection?
 
 
 
