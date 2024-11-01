@@ -1,10 +1,10 @@
 # x) Lue/katso/kuuntele ja tiivistä.
 <br/>
 ## OWASP: OWASP Top 10
-  -
-  -
-  -
-  -
+  - a
+  - b
+  - b
+  - b
 <br/>
 ## Karvinen 2023: Find Hidden Web Directories
   -
