@@ -40,26 +40,26 @@
   - SQL koodia voidaan injektoida myös update,- insert,- ja select -statement osioihin
   - SQL injektion estäminen = varmistamatonta syötettä ei päästetä läpi.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 
 
