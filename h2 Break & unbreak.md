@@ -51,25 +51,7 @@
 
 
 
-# Pakollinen Vitsi
-## Miksi Mersun ohjekirja on niin paksu?
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
-Noh, pitäähän sille bussiaikataulukolle jättää tilaa!
 
 
 
