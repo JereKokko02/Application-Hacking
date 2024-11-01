@@ -1,4 +1,5 @@
 # x) Lue/katso/kuuntele ja tiivistä.
+
 <br/>
 
 ## OWASP: OWASP Top 10
@@ -10,9 +11,9 @@
 <br/>
 
 ## Karvinen 2023: Find Hidden Web Directories
-  - Fuff on työkalu jolla voi löytää piilotettuja hakemistoja
+  - Fuff on työkalu jolla voi löytää piilotettuja hakemistoja verkosta.
   - Fuff etsii nettisivuilta normaalista näkymästä piilotettuja urleja.
-  - Fuff on automaattinen ohjelma
+  - Fuff on automaattinen ohjelma.
   
 <br/>
 
