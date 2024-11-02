@@ -72,6 +72,7 @@ Aloitin tehtävä [ohjeiden](https://terokarvinen.com/hack-n-fix/) mukaisesti. A
 <br/>
 <br/>
 
+# g) Vapaaehtoinen
 
 
 # Pohdintaa
