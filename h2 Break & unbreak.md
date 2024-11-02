@@ -2,7 +2,7 @@
 
 <br/>
 
-## OWASP: OWASP Top 10
+## OWASP: [OWASP Top 10] (https://owasp.org/Top10/A01_2021-Broken_Access_Control/)
   - Broken access control on tällä hetkellä vaarallisin turvallisuusriski.
   - Pähkinänkuoressa liittyy käyttöoikeuksiin (Ryhmäpolitiikan manipulointi, korotetut käyttöoikeudet root jne).
   - Suhteellisen helppo estää (ainakin teoriassa).
@@ -10,14 +10,14 @@
     
 <br/>
 
-## Karvinen 2023: Find Hidden Web Directories
+## Karvinen 2023: [Find Hidden Web Directories] (https://terokarvinen.com/2023/fuzz-urls-find-hidden-directories/)
   - Fuff on työkalu jolla voi löytää piilotettuja hakemistoja verkosta.
   - Fuff etsii nettisivuilta normaalista näkymästä piilotettuja urleja.
   - Fuff on automaattinen ohjelma.
   
 <br/>
 
-## PortSwigger: Access control vulnerabilities and privilege escalation
+## PortSwigger: [Access control vulnerabilities and privilege escalation] (https://portswigger.net/web-security/access-control)
   -
   -
   -
@@ -25,7 +25,7 @@
   
 <br/>
 
-## Karvinen 2006: Raportin kirjoittaminen
+## Karvinen 2006: [Raportin kirjoittaminen] (https://terokarvinen.com/2006/raportin-kirjoittaminen-4/)
   - Lähteet kuntoon!
   - Luettavuus ja täsmällisyys on tärkeintä! --> Muuten tekstistä ei saa selvää tai se ei  vastaa kaikkiin kysymyksiin.
   - Pahin moka akateemisissa tuotoksissa on plagiointi oli se sitten tapahtunut vahingossa tai ei!
@@ -33,7 +33,7 @@
 
 <br/>
 
-## Vapaaehtoinen: PortSwigger 2020: What is SQL injection?
+## Vapaaehtoinen: [PortSwigger 2020: What is SQL injection?] (https://www.youtube.com/watch?v=wX6tszfgYp4)
   - SQL injektio on webissä oleva turvallisuushaavoittuvuus joka mahdollistaa hyökkääjälle SQL pyyntöjen suorittamisen verkkosivuilla.
   - Tyypillisin ominaisuus SQL injektiossa on antaa jollekin parametrille arvo true.
   - SQL koodia voidaan injektoida mihin tahansa osaan SQL pyyntöä.
@@ -132,7 +132,7 @@ Ymmärrän SQl kielen käytön ja sen miten se hakee taulukosta haluttavat arvot
 
 <br/>
 
-"Meikämandoliini yrittämässä injektoida SQL koodia 500.kertaa webbisivulle tuloksetta (Koodissani on satoja simppeleitä virheitä )"
+"Meikämandoliini yrittämässä injektoida SQL koodia 500.kertaa webbisivulle tuloksetta (Koodissani on satoja simppeleitä virheitä)"
 ![image](https://github.com/user-attachments/assets/9371d86e-bba4-4056-a414-bacc05566db2)
 
 
