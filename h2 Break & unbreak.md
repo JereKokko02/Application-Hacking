@@ -61,7 +61,19 @@ Ensimmäinen ongelma mikä tehtävässä vastaan oli se, ettei sivun syötteesee
 
 <br/>
 
-Seuraavaksi minun piti selvittää keino jolla saisin selville tehtävän ratkaisun. Koska en ole vielä ennen käyttänyt SQL-kieltä, oli minulla paljon opeteltavaa ennen kuin pystyin edes aloittamaan tehtävää.
+Seuraavaksi minun piti selvittää keino jolla saisin selville tehtävän ratkaisun. Koska en ole vielä ennen käyttänyt SQL-kieltä, oli minulla paljon opeteltavaa ennen kuin pystyin edes aloittamaan tehtävää. Olin jumissa tässä kohtaa useamman päivän ajan ja en vain saanut ratkaistua tehtävää vaikka yritin kaikkeni. Katsoin tehtävänannosta ratkaisun joka oli seuraava:
+
+<br/>
+
+![image](https://github.com/user-attachments/assets/2afacd75-440b-4b64-8771-9292d43e78b7)
+
+<br/>
+
+En ymmärrä miten kyseinen komento saa selville ratkaisun.
+
+
+
+# b)
 
 <br/>
 <br/>
