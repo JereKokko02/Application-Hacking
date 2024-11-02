@@ -1,3 +1,29 @@
+# Johdanto
+
+Tämä on Sovellusten hakkerointi ja haavoittuvuudet - ICI012AS3A-3001 -kurssin toisen viikon tehtävien vastausdokumentti. Kyseiset tehtävät ja niiden tehtävänannot löytää osoitteesta https://terokarvinen.com/application-hacking/#h1-korkeat-standardit.
+
+<br/>
+
+Tämän tehtävädokumentin testit on tehty Debian 12 Bookworm virtuaalikoneella Oracle Virtual Boxia käyttäen.
+Tässä on kyseisten ohjelmien versiot:
+
+<br/>
+
+Debian 12.7 Bookworm
+Oracle Virtual Box version 7.0.14 r161095 (Qt5.15.2)
+Isäntäkoneen työpöytäversio Windows 11 Home
+
+
+
+
+
+
+
+
+
+
+
+
 # x) Lue/katso/kuuntele ja tiivistä.
 
 <br/>
@@ -14,7 +40,7 @@
   - Fuff on työkalu jolla voi löytää piilotettuja hakemistoja verkosta.
   - Fuff etsii nettisivuilta normaalista näkymästä piilotettuja urleja.
   - Fuff on automaattinen ohjelma.
-  - 
+  - Fuzzeri jos oikein ymmärsin antaa ohjelmalla satunnaisia rikkinäisiä tai sekavia syötteitä jotta ohjelma tekee jotain odottamatonta.
   
 <br/>
 
