@@ -9,9 +9,9 @@ Tässä on kyseisten ohjelmien versiot:
 
 <br/>
 
-Debian 12.7 Bookworm
-Oracle Virtual Box version 7.0.14 r161095 (Qt5.15.2)
-Isäntäkoneen työpöytäversio Windows 11 Home
+- Debian 12.7 Bookworm
+- Oracle Virtual Box version 7.0.14 r161095 (Qt5.15.2)
+- Isäntäkoneen työpöytäversio Windows 11 Home
 
 
 
