@@ -40,6 +40,10 @@
   - SQL koodia voidaan injektoida myös update,- insert,- ja select -statement osioihin
   - SQL injektion estäminen = varmistamatonta syötettä ei päästetä läpi.
 
+<br/>
+<br/>
+<br/>
+<br/>
 
 # a)
 
@@ -71,13 +75,19 @@ Seuraavaksi minun piti selvittää keino jolla saisin selville tehtävän ratkai
 
 En ymmärrä miten kyseinen komento saa selville ratkaisun.
 
-
+<br/>
+<br/>
+<br/>
+<br/>
 
 # b)
 
 
 
-
+<br/>
+<br/>
+<br/>
+<br/>
 
 # g) Vapaaehtoinen
 
@@ -89,6 +99,9 @@ Ratkaisin tehtävän:
 
 ![image](https://github.com/user-attachments/assets/3ea17b02-3e4f-46b5-9fd9-b9fd059cc013)
 
+<br/>
+<br/>
+<br/>
 <br/>
 
 # h) Vapaaehtoinen
