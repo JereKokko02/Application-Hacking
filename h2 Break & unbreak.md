@@ -121,10 +121,19 @@ Ratkaisin tehtävän:
 <br/>
 <br/>
 
-# g) Vapaaehtoinen
 
 
-# Pohdintaa
+
+# Pohdintaa (Ei tarvitse arvioida jos ei halua)
+
 <br/>
-SQL on ihan hieno kieli. Joillekin se on kuin kaljaa ja makkaraa, minulle se on kuin kaurapuuroa ja pontikkaa.
+
+Ymmärrän SQl kielen käytön ja sen miten se hakee taulukosta haluttavat arvot. Itse injektoiminen taas oli minusta todella vaikeaa sillä a) Kieli oli minulle uusi (Infrapuolella tasan yhdellä kurssilla katsottiin 30 min SQL injektion toimintaa, ja b) Tähän mennessä minulla ei ole ollut tarvetta opetella sitä.
+
+<br/>
+
+"Meikämandoliini yrittämässä injektoida SQL koodia 500.kertaa webbisivulle tuloksetta (Koodissani on satoja simppeleitä virheitä )"
+![image](https://github.com/user-attachments/assets/9371d86e-bba4-4056-a414-bacc05566db2)
+
+
 
