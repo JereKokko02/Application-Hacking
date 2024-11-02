@@ -56,10 +56,12 @@ Ensimmäinen ongelma mikä tehtävässä vastaan oli se, ettei sivun syötteesee
 <br/>
 
 
-![image](https://github.com/user-attachments/assets/27578fb8-59f2-43c3-b681-a72189fc15bf)
+![image](https://github.com/user-attachments/assets/e15daaf1-ab65-4469-b0cf-4e58168e9f6d)
+
 
 <br/>
 
+Seuraavaksi minun piti selvittää keino jolla saisin selville tehtävän ratkaisun. Koska en ole vielä ennen käyttänyt SQL-kieltä, oli minulla paljon opeteltavaa ennen kuin pystyin edes aloittamaan tehtävää.
 
 <br/>
 <br/>
