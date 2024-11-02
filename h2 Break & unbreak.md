@@ -165,16 +165,33 @@ Ratkaisin tehtävän:
 
 
 
-# Pohdintaa (Ei tarvitse arvioida jos ei halua)
+# Pohdintaa (Ei tarvitse arvioida jos ei halua tämä lähinnä omaksi iloksi)
 
 <br/>
 
-Ymmärrän SQl kielen käytön ja sen miten se hakee taulukosta haluttavat arvot. Itse injektoiminen taas oli minusta todella vaikeaa sillä a) Kieli oli minulle uusi (Infrapuolella tasan yhdellä kurssilla katsottiin 30 min SQL injektion toimintaa, ja b) Tähän mennessä minulla ei ole ollut tarvetta opetella sitä.
+Ymmärrän SQL kielen käytön ja sen miten se hakee taulukosta haluttavat arvot. Itse injektoiminen taas oli minusta todella vaikeaa sillä a) Kieli oli minulle uusi (Infrapuolella tasan yhdellä kurssilla katsottiin 30 min SQL injektion toimintaa), ja b) Tähän mennessä minulla ei ole ollut tarvetta opetella sitä. Tämän lisäksi aikarajoitteet alkoivat painaa kovasti otsalohkoa viikon edetessä. Tämä lähinnä johtui siitä, että en saanut tehtävää a) suoritettua itsenäisesti.
+
+Suurena apuna tehtävissä oli PortSwigger sivuston käyttäminen sekä sen sisältämien labrojen tekeminen. Tulen varmasti tulevaisuudessa tutkimaan sivustoa vielä tarkemmin vaikka sitä ei tällä kurssilla enempää käytettäisikään. Esim Burp Suite vaikuttaa mielenkiintoiselta.
+
+
 
 <br/>
 
 "Meikämandoliini yrittämässä injektoida SQL koodia 500.kertaa webbisivulle tuloksetta (Koodissani on satoja simppeleitä virheitä)"
+
+<br/>
+
 ![image](https://github.com/user-attachments/assets/9371d86e-bba4-4056-a414-bacc05566db2)
 
+<br/>
+<br/>
+<br/>
+<br/>
+
+## Opiskelumateriaalien lähteet:
+
+1. https://portswigger.net/web-security/sql-injection | Luettu 29.10.2024
+2. https://www.w3schools.com/sql/ | Luettu 30.10.2024
+3. https://www.youtube.com/watch?v=zsjvFFKOm3c | Katsottu 28.10.2024
 
 
