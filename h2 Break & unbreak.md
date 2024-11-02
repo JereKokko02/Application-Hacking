@@ -44,6 +44,9 @@
 # a)
 
 Aloitin tehtävä [ohjeiden](https://terokarvinen.com/hack-n-fix/) mukaisesti. Asennus onnistui ongelmitta ja pääsin yhdistämään tehtävän verkkosivulle:
+
+<br/>
+
 ![image](https://github.com/user-attachments/assets/f545af7b-1c8f-497d-ab2d-d37477ff7ee7)
 
 
