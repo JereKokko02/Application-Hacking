@@ -1,6 +1,6 @@
 # Johdanto
 
-Tämä on Sovellusten hakkerointi ja haavoittuvuudet - ICI012AS3A-3001 -kurssin toisen viikon tehtävien vastausdokumentti. Kyseiset tehtävät ja niiden tehtävänannot löytää osoitteesta https://terokarvinen.com/application-hacking/#h1-korkeat-standardit.
+Tämä on Sovellusten hakkerointi ja haavoittuvuudet - ICI012AS3A-3001 -kurssin toisen viikon tehtävien vastausdokumentti. Kyseiset tehtävät ja niiden tehtävänannot löytää osoitteesta https://terokarvinen.com/application-hacking/#h1-korkeat-standardit. 
 
 <br/>
 
@@ -13,16 +13,16 @@ Tässä on kyseisten ohjelmien versiot:
 - Oracle Virtual Box version 7.0.14 r161095 (Qt5.15.2)
 - Isäntäkoneen työpöytäversio Windows 11 Home
 
-
-
-
-
-
-
-
-
-
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 # x) Lue/katso/kuuntele ja tiivistä.
 
