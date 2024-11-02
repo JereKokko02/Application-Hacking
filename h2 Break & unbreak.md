@@ -49,6 +49,16 @@ Aloitin tehtävä [ohjeiden](https://terokarvinen.com/hack-n-fix/) mukaisesti. A
 
 ![image](https://github.com/user-attachments/assets/f545af7b-1c8f-497d-ab2d-d37477ff7ee7)
 
+<br/>
+
+Ensimmäinen ongelma mikä tehtävässä vastaan oli se, ettei sivun syötteeseen pystynyt kirjoittamaan mitään muuta kuin numeroarvoja. Pienen pähkäilyn jälkeen sain selville, että pystyin vaihtamaan kehittäjätyökalujen avulla input typen arvon "number" tyhjäksi. Tämä mahdollistaa SQL koodin kirjoittamisen hakukenttään.
+
+<br/>
+
+
+![image](https://github.com/user-attachments/assets/27578fb8-59f2-43c3-b681-a72189fc15bf)
+
+<br/>
 
 
 <br/>
