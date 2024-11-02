@@ -75,7 +75,30 @@ En ymmärrä miten kyseinen komento saa selville ratkaisun.
 
 # b)
 
+
+
+
+
+# g) Vapaaehtoinen
+
 <br/>
+
+Ratkaisin tehtävän:
+
+<br/>
+
+![image](https://github.com/user-attachments/assets/3ea17b02-3e4f-46b5-9fd9-b9fd059cc013)
+
+<br/>
+
+#h) Vapaaehtoinen
+
+Ratkaisin tehtävän:
+
+<br/>
+
+![image](https://github.com/user-attachments/assets/c2e63525-d237-43ae-acea-b01349eca128)
+
 <br/>
 <br/>
 <br/>
