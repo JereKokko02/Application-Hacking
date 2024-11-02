@@ -14,14 +14,16 @@
   - Fuff on työkalu jolla voi löytää piilotettuja hakemistoja verkosta.
   - Fuff etsii nettisivuilta normaalista näkymästä piilotettuja urleja.
   - Fuff on automaattinen ohjelma.
+  - 
   
 <br/>
 
 ## PortSwigger: [Access control vulnerabilities and privilege escalation](https://portswigger.net/web-security/access-control)
-  -
-  -
-  -
-  -
+  - Käyttöoikeuksien hallinta on tärkeä osa tietoturvaa
+  - Käyttöoikeuksien hallinta määrää kuka saa muokata/nähdä mitäkin tietoa.
+  - Vertical privilege escalation on eskalaatio jossa käyttäjä saa korotettua omat oikeudet esim, admin tasolle.
+  - Horizontal privilege escalation taas on eskalaatio jossa käyttäjä pääsee käsiksi toisten käyttäjien tietoihin / järjestelmiin.
+  - Miten estetään: Koulutusta, varmistusta ja toimivaa koodia!
   
 <br/>
 
