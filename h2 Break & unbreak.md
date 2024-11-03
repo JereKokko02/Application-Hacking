@@ -117,7 +117,7 @@ Tässä kohtaa jouduin heittämään pyyhkeen kehään, sillä vähäisellä sql
 <br/>
 <br/>
 
-# c) Ratkaise dirfuzt-1 artikkelista Karvinen 2023
+# c) Ratkaise dirfuzt-1 artikkelista Karvinen 2023: [Find Hidden Web Directories - Fuzz URLs with ffuf](https://terokarvinen.com/2023/fuzz-urls-find-hidden-directories/)
 
 Aloitin tämän tehtävän tekemisen ohjeiden mukaisesti ja asensin dirfuzt-0:
 
@@ -127,7 +127,7 @@ Aloitin tämän tehtävän tekemisen ohjeiden mukaisesti ja asensin dirfuzt-0:
 
 <br/>
 
-ffuf työkalun ajaminen osoitteessa http://127.0.0.2:8000:
+ffuf työkalun ajaminen osoitteessa http://127.0.0.2:8000
 
 <br/>
 
@@ -163,7 +163,7 @@ Tässä vaiheessa siirryin dirfuzt-1:seen ja ajoin aikaisemmin tehtyn haun uudes
 
 # d) Murtaudu 020-your-eyes-only
 
-Asensin aluksi Djanko appin ohjeiden mukaisesti ja pääsin sisään webbisivulle:
+Asensin aluksi Djanko appin [ohjeiden](https://terokarvinen.com/hack-n-fix/) mukaisesti ja pääsin sisään webbisivulle:
 
 <br/>
 
@@ -198,7 +198,13 @@ Testasin ffuffata uudestaan osoitteen 127.0.0.1:8000 jolloin ohjelma palautti ta
 ![image](https://github.com/user-attachments/assets/5fd5eb45-7af9-4b6a-b3dc-5102f7022ce6)
 
 <br/>
+<br/>
+<br/>
+<br/>
 
+# e) Korjaa 020-your-eyes-only haavoittuvuus.
+
+Tässä kohtaa minulla kävi sama kuin tehtävässä b). Infrapuolla tulee hyvin vähän koodattua ja sen huomasin näitä tehtäviä tehdessä. Olen kuitenkin katsonut ratkaisun teron sivulla Solution / Walktrough osiosta mutta minusta ei ole mitään järkeä käydä kopsaamaan toisen hiellä ja tuskalle tuotettua ratkaisua omaan tehtävädokumenttiini. Nöyrästi nostan siis hattua Robinille!
 
 <br/>
 <br/>
@@ -257,7 +263,7 @@ Ratkaisin tehtävän:
 
 <br/>
 
-Ymmärrän SQL kielen käytön ja sen miten se hakee taulukosta haluttavat arvot. Itse injektoiminen taas oli minusta todella vaikeaa sillä a) Kieli oli minulle uusi (Infrapuolella tasan yhdellä kurssilla katsottiin 30 min SQL injektion toimintaa), ja b) Tähän mennessä minulla ei ole ollut tarvetta opetella sitä. Tämän lisäksi aikarajoitteet alkoivat painaa kovasti otsalohkoa viikon edetessä. Tämä lähinnä johtui siitä, että en saanut tehtävää a) suoritettua itsenäisesti.
+Ymmärrän SQL kielen käytön ja sen miten se hakee taulukosta haluttavat arvot. Itse injektoiminen taas oli minusta todella vaikeaa sillä a) Kieli oli minulle uusi (Infrapuolella tasan yhdellä kurssilla katsottiin 30 min SQL injektion toimintaa), ja b) Tähän mennessä minulla ei ole ollut tarvetta opetella sitä. Tämän lisäksi aikarajoitteet alkoivat painaa kovasti otsalohkoa viikon edetessä. Tämä lähinnä johtui siitä, että en saanut tehtäviä a) ja b) suoritettua itsenäisesti.
 
 Suurena apuna tehtävissä oli PortSwigger sivuston käyttäminen sekä sen sisältämien labrojen tekeminen. Tulen varmasti tulevaisuudessa tutkimaan sivustoa vielä tarkemmin vaikka sitä ei tällä kurssilla enempää käytettäisikään. Esim Burp Suite vaikuttaa mielenkiintoiselta.
 
