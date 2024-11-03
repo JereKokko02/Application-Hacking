@@ -236,7 +236,7 @@ Ratkaisin tehtävän:
 
 <br/>
 
-![image](https://github.com/user-attachments/assets/c2e63525-d237-43ae-acea-b01349eca128 =250x250)
+![image](https://github.com/user-attachments/assets/c2e63525-d237-43ae-acea-b01349eca128) =250x250
 
 <br/>
 <br/>
