@@ -110,6 +110,71 @@ En ymmärrä miten kyseinen komento saa selville ratkaisun.
 
 # b)
 
+<br/>
+<br/>
+<br/>
+<br/>
+
+# c) Ratkaise dirfuzt-1 artikkelista Karvinen 2023
+
+Aloitin tämän tehtävän tekemisen ohjeiden mukaisesti ja asensin dirfuzt-0:
+
+<br/>
+
+![image](https://github.com/user-attachments/assets/5af57ac1-b04c-4a8f-86d1-e59ddebfac71)
+
+<br/>
+
+ffuf työkalun ajaminen osoitteessa http://127.0.0.2:8000:
+
+<br/>
+
+![image](https://github.com/user-attachments/assets/e0638975-905e-4934-b159-c426aef16200)
+
+<br/>
+
+Rajoittamalla sivun vastausajan 132:teen löysi ffuf sitten oikean admin hakemiston:
+
+<br/>
+
+![image](https://github.com/user-attachments/assets/c0725684-b05e-4358-9547-3b57b66d34f5)
+
+<br/>
+
+Rajoittamalla vastausajan 152:seen löysi ffuf vielä lopuksi admin versionhallinnan:
+
+<br/>
+
+![image](https://github.com/user-attachments/assets/a8595ac3-1886-45d5-b0ea-7931092c26ee)
+
+<br/>
+
+![image](https://github.com/user-attachments/assets/36be6f19-9d25-49c5-8d2e-9a78dd3783d0)
+
+<br/>
+
+# d) Murtaudu 020-your-eyes-only
+
+Asensin aluksi Djanko appin ohjeiden mukaisesti ja pääsin sisään webbisivulle:
+
+<br/>
+
+![image](https://github.com/user-attachments/assets/f44b0cb5-8539-453a-8303-737a01842ddc)
+
+<br/>
+
+Aloitin tehtävän ajamalla ensin ffuffin osoitteelle 127.0.0.1:8000, jolloin ffuff löysi vain admin kirjautumisen hakemiston:
+
+![image](https://github.com/user-attachments/assets/f7827ff2-9cf8-42f1-937b-ec96bb41df57)
+
+Tämän jälkeen testasin saman admin consolen osoitteelle 127.0.0.1:8000/admin-console, mutta ffuff ei löytänyt sieltä mitään. 
+
+Kekkasin seuraavaksi tutkia itse admin kirjautumisen osoitetta 127.0.0.1:8000/accounts/login/?next=/admin-dashboard/ osoitetta ja ffuf alkoi löytää hakemistoja:
+
+![image](https://github.com/user-attachments/assets/db2ecdd2-3105-4ee9-9a8f-708cbf610f84)
+
+
+
 
 
 <br/>
