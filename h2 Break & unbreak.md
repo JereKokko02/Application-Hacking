@@ -165,16 +165,31 @@ Asensin aluksi Djanko appin ohjeiden mukaisesti ja pääsin sisään webbisivull
 
 Aloitin tehtävän ajamalla ensin ffuffin osoitteelle 127.0.0.1:8000, jolloin ffuff löysi vain admin kirjautumisen hakemiston:
 
+<br/>
+
 ![image](https://github.com/user-attachments/assets/f7827ff2-9cf8-42f1-937b-ec96bb41df57)
+
+<br/>
 
 Tämän jälkeen testasin saman admin consolen osoitteelle 127.0.0.1:8000/admin-console, mutta ffuff ei löytänyt sieltä mitään. 
 
 Kekkasin seuraavaksi tutkia itse admin kirjautumisen osoitetta 127.0.0.1:8000/accounts/login/?next=/admin-dashboard/ osoitetta ja ffuf alkoi löytää hakemistoja:
 
+<br/>
+
 ![image](https://github.com/user-attachments/assets/db2ecdd2-3105-4ee9-9a8f-708cbf610f84)
 
+<br/>
 
+Tässä vaiheessa jäin jumiin pitkäksi aikaa, sillä en tiennyt mitä minä tällä tiedolla tekisin. Hetken mietiskelyn jälkeen menin katsomaan tehtävänannon vinkkejä ja luin kohdan " Some views are available to all. Some are available to logged in users. Some only for admin.". Tämän nähtyäni kokeilin luoda oman käyttäjän "apina1" ja pääsin katsomaan miltä sivu näyttää kun kirjautuu sisään käyttäjänä.
 
+Testasin ffuffata uudestaan osoitteen 127.0.0.1:8000 jolloin ohjelma palautti taas hakemiston "admin-console". Huvin vuoksi kokeilin päästä sisään kyseiseen hakemistoon sisäänkirjautuneena ja hupsista!: 
+
+<br/>
+
+![image](https://github.com/user-attachments/assets/5fd5eb45-7af9-4b6a-b3dc-5102f7022ce6)
+
+<br/>
 
 
 <br/>
