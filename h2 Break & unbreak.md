@@ -108,7 +108,9 @@ En ymmärrä miten kyseinen komento saa selville ratkaisun.
 <br/>
 <br/>
 
-# b)
+# b) Korjaa 010-staff-only haavoittuvuus lähdekoodista.
+
+Tässä kohtaa jouduin heittämään pyyhkeen kehään, sillä vähäisellä sql:n ymmärryksellä tämän tehtävän ratkaiseminen ei minulla onnistunut. Tässä vaiheessa siirryin seuraavaan 020-your-eyes-only -tehtävään jotta saisin tehtyä sen määräaikaan mennessä. Mikäli tulevaisuudessa on mahdollista, palaan tekemään tämän tehtävän loppuun.
 
 <br/>
 <br/>
