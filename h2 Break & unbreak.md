@@ -143,11 +143,12 @@ Rajoittamalla sivun vastausajan 132:teen löysi ffuf sitten oikean admin hakemis
 
 <br/>
 
-Tässä vaiheessa siirryin dirfuzt-1:seen ja ajoin aikaisemmin tehtyn haun uudestaan. Tässä kertaa Rajoittamalla vastausajan 154:seen löysi ffuf admin versionhallinnan (.git):
+Tässä vaiheessa siirryin dirfuzt-1:seen ja ajoin aikaisemmin tehtyn haun uudestaan. Tässä kertaa Rajoittamalla vastausajan 154:seen löysi ffuf admin versionhallinnan, (.git) sekä versionhallinnan (wp-admin):
 
 <br/>
 
-![image](https://github.com/user-attachments/assets/f902fe17-93d8-473d-8d2b-ce246db47181)
+![image](https://github.com/user-attachments/assets/ba9e19f9-4808-403c-b916-53c639781c5f)
+
 
 <br/>
 
