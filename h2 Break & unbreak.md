@@ -261,13 +261,15 @@ Ratkaisin tehtävän:
 
 
 
-# Pohdintaa (Ei tarvitse arvioida jos ei halua tämä lähinnä omaksi iloksi)
+# Pohdintaa 
 
 <br/>
 
 Ymmärrän SQL kielen käytön ja sen miten se hakee taulukosta haluttavat arvot. Itse injektoiminen taas oli minusta todella vaikeaa sillä a) Kieli oli minulle uusi (Infrapuolella tasan yhdellä kurssilla katsottiin 30 min SQL injektion toimintaa), ja b) Tähän mennessä minulla ei ole ollut tarvetta opetella sitä. Tämän lisäksi aikarajoitteet alkoivat painaa kovasti otsalohkoa viikon edetessä. Tämä lähinnä johtui siitä, että en saanut tehtäviä a) ja b) suoritettua itsenäisesti.
 
 Suurena apuna tehtävissä oli PortSwigger sivuston käyttäminen sekä sen sisältämien labrojen tekeminen. Tulen varmasti tulevaisuudessa tutkimaan sivustoa vielä tarkemmin vaikka sitä ei tällä kurssilla enempää käytettäisikään. Esim Burp Suite vaikuttaa mielenkiintoiselta.
+
+Tämän lisäksi ffuf oli todella hyvä työkalu ja sitä oli myös helppo käyttää. Oli siistiä nähdä kuinka webbisivun piilotetut salaisuudet sai näkyville ja miten ffuffin syötettä pystyi rajoittamaan sisäänrakennetuilla parametreilla. 
 
 
 
@@ -284,10 +286,11 @@ Suurena apuna tehtävissä oli PortSwigger sivuston käyttäminen sekä sen sis�
 <br/>
 <br/>
 
-## Opiskelumateriaalien lähteet:
+## Tehtävässä apuna kätettyjen Opiskelumateriaalien lähteet (itse tehtävien lähteet löytää tehtävien otsikoista):
 
 1. https://portswigger.net/web-security/sql-injection | Luettu 29.10.2024
 2. https://www.w3schools.com/sql/ | Luettu 30.10.2024
 3. https://www.youtube.com/watch?v=zsjvFFKOm3c | Katsottu 28.10.2024
+4. https://github.com/ffuf/ffuf/wiki | Selailtu läpi 1.11.2024
 
 
