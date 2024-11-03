@@ -143,11 +143,16 @@ Rajoittamalla sivun vastausajan 132:teen löysi ffuf sitten oikean admin hakemis
 
 <br/>
 
-Rajoittamalla vastausajan 152:seen löysi ffuf vielä lopuksi admin versionhallinnan:
+Tässä vaiheessa siirryin dirfuzt-1:seen ja ajoin aikaisemmin tehtyn haun uudestaan. Tässä kertaa Rajoittamalla vastausajan 154:seen löysi ffuf admin versionhallinnan (.git):
 
 <br/>
 
-![image](https://github.com/user-attachments/assets/a8595ac3-1886-45d5-b0ea-7931092c26ee)
+![image](https://github.com/user-attachments/assets/f902fe17-93d8-473d-8d2b-ce246db47181)
+
+<br/>
+
+![image](https://github.com/user-attachments/assets/f749a0ba-de50-4953-970d-2e59fa65bada)
+
 
 <br/>
 
