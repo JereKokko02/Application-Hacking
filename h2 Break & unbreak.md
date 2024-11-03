@@ -189,7 +189,7 @@ Kekkasin seuraavaksi tutkia itse admin kirjautumisen osoitetta 127.0.0.1:8000/ac
 
 <br/>
 
-Tässä vaiheessa jäin jumiin pitkäksi aikaa, sillä en tiennyt mitä minä tällä tiedolla tekisin. Hetken mietiskelyn jälkeen menin katsomaan tehtävänannon vinkkejä ja luin kohdan " Some views are available to all. Some are available to logged in users. Some only for admin.". Tämän nähtyäni kokeilin luoda oman käyttäjän "apina1" ja pääsin katsomaan miltä sivu näyttää kun kirjautuu sisään käyttäjänä.
+Tässä vaiheessa jäin jumiin pitkäksi aikaa, sillä en tiennyt mitä minä tällä tiedolla tekisin. Hetken mietiskelyn jälkeen menin katsomaan tehtävänannon vinkkejä ja luin kohdan "** Some views are available to all. Some are available to logged in users. *Some only for admin.**". Tämän nähtyäni kokeilin luoda oman käyttäjän "apina1" ja pääsin katsomaan miltä sivu näyttää kun kirjautuu sisään käyttäjänä.
 
 Testasin ffuffata uudestaan osoitteen 127.0.0.1:8000 jolloin ohjelma palautti taas hakemiston "admin-console". Huvin vuoksi kokeilin päästä sisään kyseiseen hakemistoon sisäänkirjautuneena ja hupsista!: 
 
