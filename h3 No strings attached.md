@@ -1,3 +1,14 @@
+
+
+
+
+
+
+
+
+
+
+
 # a) Strings
 
 Aloitin tehtävän lataamalla tehtävänannosta tehtävän tiedostot omalla virtuaalikoneelle ( napsauta oikealla hiirinäppäimellä zip pakettia ja valitse "kopioi linkin osoite". Sitten vaikka avaat notepadin ja liität linkin siihen. Tästä saat zippitiedoston osoitteen ja voit hakea sen sisällön wgetillä virtuaalikoneen puolella. ps, muista purkaa paketti!)
