@@ -171,7 +171,7 @@ Halleluja! Herra salasana on palautettu omaan kunniaansa! Nyt eikun enää testa
 
 <br/> 
 
-JES! Homma onnistui!
+Jes! Homma onnistui!
 
 <br/> 
 
