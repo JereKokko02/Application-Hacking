@@ -189,10 +189,6 @@ Tässä vaiheessa myös huomaa kuinka aikaisempi "this file is packed..." teksti
 Strings komento tuli minulle uutena. Sen käyttäminen olikin todella helppoa ja siitä on paljon hyötyä minulle tulevaisuudessa. Tehtävät olivat tällä viikolla helpompia kuin aikaisemmilla mutta niissä oli silti todella paljon opittavaa. Uutena asiana tuli myös tämä UPX:n käyttö. Olin aikaisemmin jo tiennyt sen olemassaolosta mutta en ollut käyttänyt sitä. Kuten tekstissä kävikin ilmi, oli minulla sen kanssa aluksi ongelma joka johtui inhimillisestä virheestä. Eli mohlomokasta.
 
 <br/> 
-
-![image](https://github.com/user-attachments/assets/d310df74-9370-43c5-ab37-f59413633638)
-Mitä enemmän luen forumeilta linux postauksia, sitä enemmän alan ymmärtää tätä kuvaa.
-
 <br/> 
 <br/> 
 <br/> 
