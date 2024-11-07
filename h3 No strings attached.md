@@ -197,8 +197,9 @@ Strings komento tuli minulle uutena. Sen käyttäminen olikin todella helppoa ja
 ## Tehtävän apuna käytetyt lähteet:
 
 1. https://en.wikipedia.org/wiki/UPX | Luettu 6.11.2024
-2. https://github.com/upx/upx | Selailtu läpi | 6.11.2024
-3. https://youtu.be/0jVikfySiII | katsottu 7.11.2024
+2. https://chatgpt.com/ | Käyetty apuna tehtävän b) koodin tuotossa 6.11.2024
+3. https://github.com/upx/upx | Selailtu läpi | 6.11.2024
+4. https://youtu.be/0jVikfySiII | katsottu 7.11.2024
 
 
 
