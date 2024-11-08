@@ -215,8 +215,6 @@ Ratkaisu:
 
 Tässä vaiheessa koodaaminen meni jo yli oman python osaamisen ja päädyin käyttämään apuna netin lisäksi chatgpt:tä. Huom jotta tämä ei mene suoraksi kopioimiseksi kysyn gpt:tä vain selittämään koodin toimintaa vaihe-vaiheelta. Sudokoodina osaan selittää mitä haluan koodini tekevän mutta olen vasta python aloittelija.
 
-Tehtävä alkoi sillä, että selvitin netistä mitkä ovat englannin kielen kirjaimien esiintyvyyksien keskiarvot. Tämän löysin googlaamalla https://masonsimon.com/posts/optimizing-handwriting.
-
 Tässä tehtävässä minun täytyy tehdä ohjelma joka ekana muuntaa tuon heksadesimaaliarvon tavuiksi. Tämän jälkeen minun täytyy selvittää mitkä ovat englannin kielen aakkosten esiintymitiheys (niin kuin tehtävässä vinkataankin). Sitten minun täytyy tehdä koodi joka ensiksi kokeilee tavuarvot 0-256 heksadesimaaliin ja sitten pistää ne järjestykseen aakkosten esiintymistiheyden perusteella. 
 
 Kysyin gpt:tä tekemään minulle valmiin vertailutaulukon pythoniin:
@@ -225,16 +223,21 @@ Kysyin gpt:tä tekemään minulle valmiin vertailutaulukon pythoniin:
 
 ![image](https://github.com/user-attachments/assets/511b9857-ed40-40e8-b80f-1c862ebbeea6)
 
+<br/>
 
-
-// Tämä on eka testi unhexify ja sen error // 
-![image](https://github.com/user-attachments/assets/8bd7cea3-47a7-4ddd-bdac-8e385dd804ee)
+Tämän jälkeen tein ensimmäisen kohdan koodista, eli tein tavumuunnoksen ja lisäsin gpt:n tuottaman sanakirjan aakkosille:
 
 <br/>
 
-Tässä vaiheessa koodaaminen meni jo yli oman python osaamisen ja päädyin käyttämään apuna netin lisäksi chatgpt:tä. Huom jotta tämä ei mene suoraksi kopioimiseksi kysyn gpt:tä vain selittämään koodin toimintaa vaihe-vaiheelta. Sudokoodina osaan selittää mitä haluan koodini tekevän mutta olen vasta python aloittelija.
+![image](https://github.com/user-attachments/assets/7aa3d7c2-3738-40cc-bfb7-5bfc25ef1933)
 
-Tehtävä alkoi sillä, että selvitin netistä mitkä ovat englannin kielen kirjaimien esiintyvyyksien keskiarvot. Tämän löysin googlaamalla https://masonsimon.com/posts/optimizing-handwriting.
+<br/>
+
+
+
+
+
+
 
 
 
