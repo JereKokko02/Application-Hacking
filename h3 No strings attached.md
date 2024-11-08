@@ -147,7 +147,7 @@ Tässä kohtaan tein samaan sijaintiin kopion packd -tiedostosta ja yritin avata
 
 <br/> 
 
- Tässä kohtaa joku tohelo saattoi tai ei saattanut jäädä jumiin tähän pisteeseen kolmeksi tunniksi. Ja tämä sama tohelo saattoi tai ei saattanut asentaa upx:sää useampaan kertaan ennen kuin tajusi että oikea komento on " ./upx -d packd"
+ Tässä kohtaa joku tohelo saattoi tai ei saattanut jäädä jumiin tähän pisteeseen kolmeksi tunniksi. Ja tämä sama tohelo saattoi tai ei saattanut tämän kolmen tunnin aikana asentaa upx:sää useampaan kertaan ja selata useampaa artikkelia aiheeseen liittyen netissä ennen kuin tajusi että oikea komento on " ./upx -d packd"
 
 <br/> 
 
@@ -233,7 +233,9 @@ Tämän jälkeen tein ensimmäisen kohdan koodista, eli tein tavumuunnoksen ja l
 
 <br/>
 
+Tähän kohtaan jäin jumiin ensimmäisenä päivänä ja koska kello alkoi jo olla myöhä, päätin jättää ajatukset muhimaan yön ajaksi.
 
+// To be continued! //
 
 
 
