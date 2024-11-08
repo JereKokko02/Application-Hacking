@@ -184,6 +184,71 @@ Tässä vaiheessa myös huomaa kuinka aikaisempi "this file is packed..." teksti
 <br/> 
 <br/> 
 
+# d) Vapaaehtoinen bonus: Cryptopals. // TYÖN ALLA ALKAEN 8.11.2024 //
+
+1.
+![image](https://github.com/user-attachments/assets/45280b12-adc0-43cf-8cc4-0dd8ee0f6499)
+
+<br/>
+
+Ratkaisu: 
+
+<br/>
+
+![image](https://github.com/user-attachments/assets/77885e6b-f608-4bec-bd53-3f053dd1a87b)
+
+<br/>
+
+2.
+![image](https://github.com/user-attachments/assets/da7df93b-4aad-477b-b1bf-43049bb41120)
+
+<br/>
+
+Ratkaisu:
+
+<br/>
+
+![image](https://github.com/user-attachments/assets/238ecb91-7076-40db-a077-abde6faa6746)
+
+3. 
+![image](https://github.com/user-attachments/assets/e8b04185-a302-43a3-ae53-536a2b8d7cbb)
+
+Tässä vaiheessa koodaaminen meni jo yli oman python osaamisen ja päädyin käyttämään apuna netin lisäksi chatgpt:tä. Huom jotta tämä ei mene suoraksi kopioimiseksi kysyn gpt:tä vain selittämään koodin toimintaa vaihe-vaiheelta. Sudokoodina osaan selittää mitä haluan koodini tekevän mutta olen vasta python aloittelija.
+
+Tehtävä alkoi sillä, että selvitin netistä mitkä ovat englannin kielen kirjaimien esiintyvyyksien keskiarvot. Tämän löysin googlaamalla https://masonsimon.com/posts/optimizing-handwriting.
+
+Tässä tehtävässä minun täytyy tehdä ohjelma joka ekana muuntaa tuon heksadesimaaliarvon tavuiksi. Tämän jälkeen minun täytyy selvittää mitkä ovat englannin kielen aakkosten esiintymitiheys (niin kuin tehtävässä vinkataankin). Sitten minun täytyy tehdä koodi joka ensiksi kokeilee tavuarvot 0-256 heksadesimaaliin ja sitten pistää ne järjestykseen aakkosten esiintymistiheyden perusteella. 
+
+Kysyin gpt:tä tekemään minulle valmiin vertailutaulukon pythoniin:
+
+<br/>
+
+![image](https://github.com/user-attachments/assets/511b9857-ed40-40e8-b80f-1c862ebbeea6)
+
+
+
+// Tämä on eka testi unhexify ja sen error // 
+![image](https://github.com/user-attachments/assets/8bd7cea3-47a7-4ddd-bdac-8e385dd804ee)
+
+<br/>
+
+Tässä vaiheessa koodaaminen meni jo yli oman python osaamisen ja päädyin käyttämään apuna netin lisäksi chatgpt:tä. Huom jotta tämä ei mene suoraksi kopioimiseksi kysyn gpt:tä vain selittämään koodin toimintaa vaihe-vaiheelta. Sudokoodina osaan selittää mitä haluan koodini tekevän mutta olen vasta python aloittelija.
+
+Tehtävä alkoi sillä, että selvitin netistä mitkä ovat englannin kielen kirjaimien esiintyvyyksien keskiarvot. Tämän löysin googlaamalla https://masonsimon.com/posts/optimizing-handwriting.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Pohdintaa
 
 Strings komento tuli minulle uutena. Sen käyttäminen olikin todella helppoa ja siitä on paljon hyötyä minulle tulevaisuudessa. Tehtävät olivat tällä viikolla helpompia kuin aikaisemmilla mutta niissä oli silti todella paljon opittavaa. Uutena asiana tuli myös tämä UPX:n käyttö. Olin aikaisemmin jo tiennyt sen olemassaolosta mutta en ollut käyttänyt sitä. Kuten tekstissä kävikin ilmi, oli minulla sen kanssa aluksi ongelma joka johtui inhimillisestä virheestä. Eli mohlomokasta.
