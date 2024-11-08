@@ -213,7 +213,7 @@ Ratkaisu:
 3. 
 ![image](https://github.com/user-attachments/assets/e8b04185-a302-43a3-ae53-536a2b8d7cbb)
 
-Tässä vaiheessa koodaaminen meni jo yli oman python osaamisen ja päädyin käyttämään apuna netin lisäksi chatgpt:tä. Huom jotta tämä ei mene suoraksi kopioimiseksi kysyn gpt:tä vain selittämään koodin toimintaa vaihe-vaiheelta. Sudokoodina osaan selittää mitä haluan koodini tekevän mutta olen vasta python aloittelija.
+Tässä vaiheessa koodaaminen meni jo yli oman python osaamisen ja päädyin käyttämään apuna netin lisäksi chatgpt:tä. Huom jotta tämä ei mene suoraksi valmiin vastauksen kopioimiseksi kysyn gpt:tä vain selittämään koodin toimintaa vaihe-vaiheelta. Sudokoodina osaan selittää mitä haluan koodini tekevän mutta olen vasta python aloittelija. Kun en kopioi suoraan vastausta vaan pyydän vain selitystä, tapahtuu tärkein asia: MINÄ OPIN
 
 Tässä tehtävässä minun täytyy tehdä ohjelma joka ekana muuntaa tuon heksadesimaaliarvon tavuiksi. Tämän jälkeen minun täytyy selvittää mitkä ovat englannin kielen aakkosten esiintymitiheys (niin kuin tehtävässä vinkataankin). Sitten minun täytyy tehdä koodi joka ensiksi kokeilee tavuarvot 0-256 heksadesimaaliin ja sitten pistää ne järjestykseen aakkosten esiintymistiheyden perusteella. 
 
