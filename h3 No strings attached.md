@@ -271,6 +271,47 @@ Strings komento tuli minulle uutena. Sen käyttäminen olikin todella helppoa ja
 3. https://github.com/upx/upx | Selailtu läpi | 6.11.2024
 4. https://youtu.be/0jVikfySiII | katsottu 7.11.2024
 
+<br/>
+<br/>
+<br/>
+<br/>
+
+---------------------------------------------
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+# Korjaukset
+
+<br/>
+
+Mikä on korjaamisen syy? : Miltä tehtävän b) strings -komennon ajaminen näyttää korjatussa koodissa?
+
+<br/>
+
+Vastaus: Siis strings komennon ajaminen siis tulostaa kaikki ne stringsit jotka kone pystyy käyttäjälle näyttämään. Eli siis kaikki koodi mitä tiedostossa on pystytään tulostamaan strings komennolla. Eli tehtävässä näyttämäni obfuskoroitu koodi näkyy strings komennolla siis myös samalla tavalla obfuskoroituna. Esimerkinä:
+
+<br/>
+
+![image](https://github.com/user-attachments/assets/644a8877-a684-438c-99eb-2f8f94ced838)
+
+<br/>
+
+Huomaa että kuvassa salasana on kirjoitettu binäärimuotoon.
+
+<br/>
+
+![image](https://github.com/user-attachments/assets/ebe6b191-47fa-4c2d-9008-cafe98a7228f)
+
+<br/>
+
+Strings komento palauttaa täysin saman tulostuksen kun miltä itse tiedosto näyttää kun käyttäjä avaa sen.
+
+
+
 
 
 
