@@ -308,7 +308,7 @@ Huomaa että kuvassa salasana on kirjoitettu binäärimuotoon.
 
 <br/>
 
-Strings komento palauttaa täysin saman tulostuksen kun miltä itse tiedosto näyttää kun käyttäjä avaa sen.
+Strings komento palauttaa täysin saman tulostuksen kun miltä itse tiedosto näyttää kun käyttäjä avaa sen. Tämä johtuu siitä, että kaikki koodi mitä kone pystyy lukemaan luokitellaan stringseiksi.
 
 
 
