@@ -21,10 +21,15 @@ x) Lue/katso/kuuntele ja tiivistä.
   - Kyseessä capture the flag -tehtävä
   - Ghidra on open source reverse engineering -työkalu.
   - Videossa käydään läpi Ghidran toiminta.
-  - Ghidralla näkee siis erilaisten ohjelmien toiminnan staattisena analyysinä.
+  - Ghidralla näkee siis erilaisten ohjelmien toiminnan. Kyseessä siis staattinen analyysi.
 
-## VAPAAEHTOINEN TÄHÄN!!!!!!!!!!!!!!!!!!!
+## Vapaaehtoinen: € Eagle and Nancy 2020: The Ghidra Book: 2. Reversing And Disassembly Tools: https://learning.oreilly.com/library/view/the-ghidra-book/9781098125684/xhtml/ch02.xhtml#ch02lev29
 
+  - Kattava kirja Ghidran toiminnasta
+  - Sisältää mm. Peruskäytön, ohjelman konfiguroinnin, esimerkkejä arkielämän käyttökohteista, jne.
+  - 23 Chapteria.
+  - Sisältää esimerkiksi data-analyysiä, syötteen analyysiä ja binäärin toiminnan analyysiä.
+  - Aivoni sulaa kun selaan kirjaa.
 
 <br/>
 <br/>
