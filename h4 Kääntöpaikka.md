@@ -61,3 +61,37 @@ Asennus onnistui ja kaikki toimii.
 
 # b) rever-C.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Tehtävissä myös hyödynnetyt lisälähteet
+
+1. https://medium.com/geek-talk/how-to-reverse-engineer-your-first-binary-15a047c48649
+
