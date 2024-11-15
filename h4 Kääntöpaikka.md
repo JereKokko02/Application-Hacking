@@ -13,17 +13,20 @@
 
 
 
-x) Lue/katso/kuuntele ja tiivistä.
+# x) Lue/katso/kuuntele ja tiivistä.
 
 
-## Hammond 2022: https://www.youtube.com/watch?v=oTD_ki86c9I
+### Hammond 2022: https://www.youtube.com/watch?v=oTD_ki86c9I
 
   - Kyseessä capture the flag -tehtävä
   - Ghidra on open source reverse engineering -työkalu.
   - Videossa käydään läpi Ghidran toiminta.
   - Ghidralla näkee siis erilaisten ohjelmien toiminnan. Kyseessä siis staattinen analyysi.
 
-## Vapaaehtoinen: € Eagle and Nancy 2020: The Ghidra Book: 2. Reversing And Disassembly Tools: https://learning.oreilly.com/library/view/the-ghidra-book/9781098125684/xhtml/ch02.xhtml#ch02lev29
+    <br/>
+    <br/>
+
+### Vapaaehtoinen: € Eagle and Nancy 2020: The Ghidra Book: 2. Reversing And Disassembly Tools: https://learning.oreilly.com/library/view/the-ghidra-book/9781098125684/xhtml/ch02.xhtml#ch02lev29
 
   - Kattava kirja Ghidran toiminnasta
   - Sisältää mm. Peruskäytön, ohjelman konfiguroinnin, esimerkkejä arkielämän käyttökohteista, jne.
