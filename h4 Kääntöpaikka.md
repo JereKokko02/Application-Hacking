@@ -147,7 +147,7 @@ Sitten luin README.md tiedoston ja seurasin sen ohjetta. Tämä oli niin simppel
 
 <br/>
 
-Vinkki vinkkelson: .64 tiedoston perässä antaa vinkin siitä, miten koodi on muutettu binääriksi. Esim tässä tapauksessa se on muutettu base64 muotoon.
+// Vinkki vinkkelson: .64 tiedoston perässä antaa vinkin siitä, miten koodi on muutettu binääriksi. Esim tässä tapauksessa se on muutettu base64 muotoon.
 
 <br/>
 
