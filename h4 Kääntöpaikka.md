@@ -127,7 +127,7 @@ En päässyt tässä etenemään sillä C-osaamiseni on vähäistä.
 <br/>
 <br/>
 
-# d)  Nora CrackMe: Käännä binääreiksi Tindall 2023
+# d)  Nora CrackMe: Käännä binääreiksi Tindall 2023. [Lähde](https://github.com/NoraCodes/crackmes)
 
 <br/>
 
