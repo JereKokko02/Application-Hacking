@@ -99,7 +99,7 @@ Painoin analysointiin ja sen kaikkiin kysymyksiin kyllä ja pääsin ohjelmaan.
 
 <br/>
 
-Vinkki vinkkelson: Huomasin että jos ohjelma ei anna decompilata, niin tiedosto pitää vain käynnistää uudelleen:
+// Vinkki vinkkelson: Huomasin että jos ohjelma ei anna decompilata, niin tiedosto pitää vain käynnistää uudelleen
 
 <br/>
 
