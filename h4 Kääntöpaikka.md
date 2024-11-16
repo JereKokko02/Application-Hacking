@@ -240,7 +240,7 @@ Aloitetaan main funktiosta (Löytää symbol trees --> functions):
 
 <br/>
 
-Tässä kohtaa pitää tulkata itse C-kieltä. Tässä vaiheessa allekirjoittanut lähtee selvittämään.
+Tässä kohtaa pitää tulkata itse C-kieltä.
 
 <br/>
 
