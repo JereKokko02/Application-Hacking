@@ -118,10 +118,7 @@ Tähän kohtaan oma osaaminen lakkaakin. Tiedän mitä ohjelma tekee mutta en os
 <br/>
 <br/>
 
-## Vaihe 2. Anna muuttujille sopivat nimet ja selitä ohjelman toiminta.
-
-
-#c Jos väärinpäin. Muokkaa passtr-ohjelman binääriä (ilman alkuperäistä lähdekoodia) niin, että se hyväksyy kaikki salasanat paitsi oikean.
+# c) Jos väärinpäin. Muokkaa passtr-ohjelman binääriä (ilman alkuperäistä lähdekoodia) niin, että se hyväksyy kaikki salasanat paitsi oikean.
 
 En päässyt tässä etenemään sillä C-osaamiseni on vähäistä.
 
