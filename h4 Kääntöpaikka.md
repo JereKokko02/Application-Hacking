@@ -97,7 +97,9 @@ Tämän jälkeen avasin kyseisen tiedoston codeBrowserilla:
 
 Painoin analysointiin ja sen kaikkiin kysymyksiin kyllä ja pääsin ohjelmaan.
 
-Huomasin että jos ohjelma ei anna decompilata, niin tiedosto pitää vain käynnistää uudelleen:
+<br/>
+
+Vinkki vinkkelson: Huomasin että jos ohjelma ei anna decompilata, niin tiedosto pitää vain käynnistää uudelleen:
 
 <br/>
 
