@@ -260,7 +260,7 @@ Eniten tässä alkoi kiinnostamaan tämä osio:
 
 <br/>
 
-En tienny entuudestaan mitä C-kielessä \0 tarkoitti joten googlasin sen. Vastaukseksi sain että se on NULL arvo eli arvo joka ei ole mikään merkki tai numero.
+En tienny entuudestaan mitä C-kielessä \0 tarkoitti joten googlasin sen (ks. lisälähteet 2.). Vastaukseksi sain että se on NULL arvo eli arvo joka ei ole mikään merkki tai numero.
 Hehe taidanpa tietää mitä tehdä.
 
 <br/>
