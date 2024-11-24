@@ -25,3 +25,32 @@ Tässä on kyseisten ohjelmien versiot:
 <br/>
 
 # a) Lab1. Tutkiminen mikä on ohjelmassa vialla ja miten se korjataan.
+
+Minulla oli ongelmia gbd:n käyttämisessä joten teen tämän tehtävän nytten lähdekoodin perusteella:
+
+<br/>
+
+![image](https://github.com/user-attachments/assets/2be4fe35-6bc5-4674-a4bf-4b3ea228503c)
+
+<br/>
+
+Koodi ei toimi seuraavista syöstä:
+
+1. Char * Bad messagen arvo on "null" , eli se ei johda mihinkään arvoon jota ohjelma voisi käyttää.
+
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+#  Lab2. Selvitä salasana ja lippu + kirjoita raportti siitä miten aukesi.
+
+Tässä on nyt se ongelmana että tehtävää ei voi ratkaista ilman gdb:n osaamista. Lähdekoodistahan salasanan löytää heti mutta se ei ole tehtävän tarkoitus. Nyt en osaa muuta sanoa kuin että tämä tehtävä jää parannettavaksi.
+
+
+
+
+
+
+
