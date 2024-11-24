@@ -48,6 +48,15 @@ Koodi ei toimi seuraavista syistä:
 
 Tässä on nyt se ongelmana että tehtävää ei voi ratkaista ilman gdb:n osaamista. Lähdekoodistahan salasanan löytää heti mutta se ei ole tehtävän tarkoitus. Nyt en osaa muuta sanoa kuin että tämä tehtävä jää parannettavaksi.
 
+<br/>
+<br/>
+<br/>
+<br/>
+
+## Tehtävissä myös hyödynnetyt lisälähteet
+
+1. https://www.youtube.com/watch?v=Dq8l1_-QgAc&t=73s | Katsottu 29.11.2024
+2. https://www.geeksforgeeks.org/null-pointer-in-c/ | Luettu 24.11.2024
 
 
 
