@@ -34,17 +34,17 @@ Minulla oli ongelmia gbd:n käyttämisessä joten teen tämän tehtävän nytten
 
 <br/>
 
-Koodi ei toimi seuraavista syöstä:
+Koodi ei toimi seuraavista syistä:
 
 1. Char * Bad messagen arvo on "null" , eli se ei johda mihinkään arvoon jota ohjelma voisi käyttää.
+2. Print_scrambled(bad_message); Ei tuota mitään null -arvon vuoksi.
 
-
 <br/>
 <br/>
 <br/>
 <br/>
 
-#  Lab2. Selvitä salasana ja lippu + kirjoita raportti siitä miten aukesi.
+# Lab2. Selvitä salasana ja lippu + kirjoita raportti siitä miten aukesi.
 
 Tässä on nyt se ongelmana että tehtävää ei voi ratkaista ilman gdb:n osaamista. Lähdekoodistahan salasanan löytää heti mutta se ei ole tehtävän tarkoitus. Nyt en osaa muuta sanoa kuin että tämä tehtävä jää parannettavaksi.
 
