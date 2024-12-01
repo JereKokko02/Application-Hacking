@@ -1,10 +1,28 @@
+# Johdanto
 
+Tämä on Sovellusten hakkerointi ja haavoittuvuudet - ICI012AS3A-3001 -kurssin kuudennen viikon tehtävien vastausdokumentti. Kyseiset tehtävät ja niiden tehtävänannot löytää osoitteesta https://terokarvinen.com/application-hacking/#h1-korkeat-standardit. 
 
+<br/>
 
+Tämän tehtävädokumentin testit on tehty Debian 12 Bookworm virtuaalikoneella Oracle Virtual Boxia käyttäen.
+Tässä on kyseisten ohjelmien versiot:
 
+<br/>
 
+- Debian 12.7 Bookworm
+- Oracle Virtual Box version 7.0.14 r161095 (Qt5.15.2)
+- Isäntäkoneen työpöytäversio Windows 11 Home
 
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 # a)  Tutki tiedostoa h1.jpg jo opituilla työkaluilla. Mitä saat selville?
 
@@ -14,7 +32,7 @@
 
 <br/>
 
-Silmät:
+Silmät, ihmisen tehokkain työkalu ainakin pasifistien mielestä:
 
 <br/>
 
@@ -22,7 +40,7 @@ Silmät:
 
 <br/>
 
-Tämä kuva on tehty tekoalyä käyttäen jonka näkee jo ihan omilla silmillä. En löytänyt itse kuvasta mitään vinkkejä ja kuvan kirjoissa on oletetusti vain satunnaisia kirjainyhdistelmiä.
+Tämä kuva on tehty tekoälyä käyttäen jonka näkee kuvasta suoraan. En löytänyt itse kuvasta mitään vinkkejä ja kuvan kirjoissa on oletetusti vain satunnaisia kirjainyhdistelmiä.
 
 <br/>
 <br/>
@@ -32,6 +50,8 @@ Nano:
 <br/>
 
 ![image](https://github.com/user-attachments/assets/46d07636-f783-47b5-b378-6003d0095116)
+
+Ei mitään kiinnostavaa.
 
 <br/>
 <br/>
@@ -53,6 +73,8 @@ upx:
 
 ![image](https://github.com/user-attachments/assets/41b96f4b-1efe-4fad-a5b6-36828f192924)
 
+et tu Brutus?
+
 <br/>
 <br/>
 
@@ -62,7 +84,7 @@ Ghidra :
 
 ![image](https://github.com/user-attachments/assets/fc8c9ac1-ad84-4c28-961e-5f1f44593936)
 
-Ghidralla ei voi kuvaa tarkastella sillä ghidra ymmärtää lähinnä koodikieltä.
+Ghidralla ei voi kuvaa tarkastella sillä ghidra ymmärtää lähinnä koodikieltä (tai sitten en vain osannut valita oikeaa asetusta).
 
 <br/>
 <br/>
@@ -127,14 +149,32 @@ Tällä työkalulla voi paljastaa esimerkiksi kuvaan liitettyjä kommentteja tag
 Valitsin kalenterisovelluksen nimeltä "(Birday)[https://github.com/m-i-n-a-r/birday]" 
 
 Latasin sen apk:n
+
+<br/>
+
 ![image](https://github.com/user-attachments/assets/6b049334-f5c6-4c3f-8cf1-22b2bd61098a)
+
+<br/>
+
 ![image](https://github.com/user-attachments/assets/f3d8b8d9-95ee-4e10-bf00-40cc847ef11c)
 
+<br/>
+
 Kokeillaan avata apk:sta esim tärkeä Androidmanifest tiedosto:
+
+<br/>
+
 ![image](https://github.com/user-attachments/assets/b7ac15d7-9949-4c5f-b1f7-de3268423227)
 
+<br/>
+
 apk-muodossa meille ei ole oikeutta tarkastella paketin tiedostoja
+
+<br/>
+
 ![image](https://github.com/user-attachments/assets/5d584c48-fee6-4df3-b899-3bb278fd7402)
+
+<br/>
 
 Sitten vaan ratkaisemaan!
 
