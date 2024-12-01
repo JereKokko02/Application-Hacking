@@ -124,6 +124,54 @@ Tällä työkalulla voi paljastaa esimerkiksi kuvaan liitettyjä kommentteja tag
 
 <br/>
 
+Valitsin kalenterisovelluksen nimeltä "(Birday)[https://github.com/m-i-n-a-r/birday]" 
+
+Latasin sen apk:n
+![image](https://github.com/user-attachments/assets/6b049334-f5c6-4c3f-8cf1-22b2bd61098a)
+![image](https://github.com/user-attachments/assets/f3d8b8d9-95ee-4e10-bf00-40cc847ef11c)
+
+Kokeillaan avata apk:sta esim tärkeä Androidmanifest tiedosto:
+![image](https://github.com/user-attachments/assets/b7ac15d7-9949-4c5f-b1f7-de3268423227)
+
+apk-muodossa meille ei ole oikeutta tarkastella paketin tiedostoja
+![image](https://github.com/user-attachments/assets/5d584c48-fee6-4df3-b899-3bb278fd7402)
+
+Sitten vaan ratkaisemaan!
+
+
+## Zip:
+
+Nimetään .apk .zip:ksi ja hups, saman manifestin voi avata.
+
+![image](https://github.com/user-attachments/assets/72d5c4fa-a763-4425-8af1-185870ba1a8e)
+
+![image](https://github.com/user-attachments/assets/67f3f4c3-c53c-46d5-af74-b9174cc3a15a)
+
+Unzippauksen jälkeen tiedoston voi avata normaalisti:
+![image](https://github.com/user-attachments/assets/81a9bebd-3617-4bb9-9d6f-3bef1f26ad71)
+
+## JADX:
+
+Onnistunut asennus: 
+![image](https://github.com/user-attachments/assets/6b842f85-6fe4-440b-88bc-8ab2e12af76a)
+
+Avataan apk jadx-guilla:
+![image](https://github.com/user-attachments/assets/8d6bb0df-13f1-4a38-85ec-990ca234acd4)
+
+Ja tarkastellaan taas avattua manifestia:
+![image](https://github.com/user-attachments/assets/a4c8c12a-ff8a-4f57-a7cf-8add5fdb1f36)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
