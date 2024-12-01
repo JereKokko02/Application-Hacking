@@ -213,29 +213,21 @@ apk avattuna:
 
 Tässä vaiheessa ei voida muuttaa manifestia luettavaan muotoon sillä se pitäisi tehdä esimerkiksi jadx:sää käyttäen.
 
+<br/>
+<br/>
+<br/>
+<br/>
 
+# Pikapohdintaa
 
+Oli ihan mielenkiintoiset tehtävät. Taas tuli opittua uusia hyödyllisiä työkaluja ja niiden käyttöä. Tehtävät olivat helppoja ja niiden tehtävänantokin oli tarpeeksi kattava. Mielenkiintoista oli oppia androidisovellusten rakenteesta.
 
+<br/>
+<br/>
 
+## Tehtävissä myös hyödynnetyt lähteet:
 
+1. https://linuxcommandlibrary.com/man/binwalk | Luettu 30.11.2024
+2. https://infosecwriteups.com/beginners-ctf-guide-finding-hidden-data-in-images-e3be9e34ae0d | Luettu 30.11.2024
+3. https://youtu.be/L0ae3y6FbJQ | Katsottu 30.11.2024
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-Tämähän oli yhtä helppoa kuin katalysaattorin vieminen Honda Accordista.
-
-
-
-Lähde
-
-https://linuxcommandlibrary.com/man/binwalk
