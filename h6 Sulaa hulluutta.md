@@ -1,3 +1,11 @@
+
+
+
+
+
+
+
+
 # a)  Tutki tiedostoa h1.jpg jo opituilla työkaluilla. Mitä saat selville?
 
 ## Testatut menetelmät:
@@ -29,6 +37,21 @@ Asensin binwalkin:
 
 Katsoin alkutietoja kuvasta:
 ![image](https://github.com/user-attachments/assets/dc84d8db-73e2-45c4-8ed5-ca9b82df4c18)
+
+Ajoin komennon "binwalk -e h1.jpg" jotta saisin haettua kuvaan piilotetut tiedostot ja siirryin sen hakemistoon: (huom, koneellani kyseinen kuva on nimellä h24.jpg)
+![image](https://github.com/user-attachments/assets/7c4d54b3-9bf5-4ce7-8218-9bd31da6a46d)
+
+Kyseisellä tiedostolla ei ole mitään erityistä sisältöä enkä löytänyt mitään mikä viittaisi lippuun. Olettaisin että sellaista ei ole, sillä sitä ei mainita tehtävänannossa.
+
+Varmistin vielä kuitenkin ettei tiedostossa ole mitään muuta piilotettua käyttämällä työkalua nimeltä "exiftool"
+
+![image](https://github.com/user-attachments/assets/47457d7f-72a1-4b8b-8c4b-bbcc75d514ea)
+
+Tällä työkalulla voi paljastaa esimerkiksi kuvaan liitettyjä kommentteja tagejä jne. Jos kiinnostaa niin kannattaa käydä katsomassa kyseinen työkalu (linkki)[https://exiftool.org/install.html]
+
+# c) FOSS (Free Android OpenSource). Tutustu Android-sovelluksiin Offan (2024) listalta: Android FOSS. Valitse listalla itsellesi mielenkiintoisin applikaatio ja mene sen GitHubiin. Lataa ohjelman APK itsellesi ja käytä seuraavia työkaluja tutustuaksesi, miten APK:n voi avata.
+
+
 
 
 
