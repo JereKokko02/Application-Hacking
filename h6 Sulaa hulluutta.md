@@ -181,14 +181,25 @@ Sitten vaan ratkaisemaan!
 
 ## Zip:
 
-Nimetään .apk .zip:ksi ja hups, saman manifestin voi avata.
+Nimetään .apk .zip:ksi ja hups, saman manifestin voi avata purkamalla kyseisen paketin.
+
+<br/>
 
 ![image](https://github.com/user-attachments/assets/72d5c4fa-a763-4425-8af1-185870ba1a8e)
 
+<br/>
+
 ![image](https://github.com/user-attachments/assets/67f3f4c3-c53c-46d5-af74-b9174cc3a15a)
 
+<br/>
+
 Unzippauksen jälkeen tiedoston voi avata normaalisti:
+
+<br/>
+
 ![image](https://github.com/user-attachments/assets/81a9bebd-3617-4bb9-9d6f-3bef1f26ad71)
+
+<br/>
 
 ## JADX:
 
