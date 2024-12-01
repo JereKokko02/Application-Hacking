@@ -42,6 +42,8 @@ Strings:
 
 ![image](https://github.com/user-attachments/assets/62f539f0-b246-4636-96a2-0536e892d69d)
 
+Stringseistä en löytänyt mitään huomiota herättävää.
+
 <br/>
 <br/>
 
@@ -59,6 +61,8 @@ Ghidra :
 <br/>
 
 ![image](https://github.com/user-attachments/assets/fc8c9ac1-ad84-4c28-961e-5f1f44593936)
+
+Ghidralla ei voi kuvaa tarkastella sillä ghidra ymmärtää lähinnä koodikieltä.
 
 <br/>
 <br/>
