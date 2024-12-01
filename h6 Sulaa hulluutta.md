@@ -161,6 +161,17 @@ Avataan apk jadx-guilla:
 Ja tarkastellaan taas avattua manifestia:
 ![image](https://github.com/user-attachments/assets/a4c8c12a-ff8a-4f57-a7cf-8add5fdb1f36)
 
+Tällä työkalulla voikin sitten löytää samalla tavalla haavoittuvuuksia ja salaisuuksia kuten esimerkiksi Ghidralla.
+
+## Bytecode-viewer:
+
+Ohjelman asennus githubista latauksen jälkeen:
+![image](https://github.com/user-attachments/assets/53cb6dda-da87-4465-b4a6-8ce1d628fe89)
+
+apk avattuna:
+![image](https://github.com/user-attachments/assets/033c6b31-b285-4904-acfd-25a17cedce13)
+
+Tässä vaiheessa ei voida muuttaa manifestia luettavaan muotoon sillä se pitäisi tehdä esimerkiksi jadx:sää käyttäen.
 
 
 
@@ -181,6 +192,7 @@ Ja tarkastellaan taas avattua manifestia:
 
 
 
+Tämähän oli yhtä helppoa kuin katalysaattorin vieminen Honda Accordista.
 
 
 
