@@ -203,16 +203,35 @@ Unzippauksen jälkeen tiedoston voi avata normaalisti:
 
 ## JADX:
 
+<br/>
+
 Onnistunut asennus: 
+
+<br/>
+
 ![image](https://github.com/user-attachments/assets/6b842f85-6fe4-440b-88bc-8ab2e12af76a)
 
+<br/>
+
 Avataan apk jadx-guilla:
+
+<br/>
+
 ![image](https://github.com/user-attachments/assets/8d6bb0df-13f1-4a38-85ec-990ca234acd4)
 
+<br/>
+
 Ja tarkastellaan taas avattua manifestia:
+
+<br/>
+
 ![image](https://github.com/user-attachments/assets/a4c8c12a-ff8a-4f57-a7cf-8add5fdb1f36)
 
+<br/>
+
 Tällä työkalulla voikin sitten löytää samalla tavalla haavoittuvuuksia ja salaisuuksia kuten esimerkiksi Ghidralla.
+
+<br/>
 
 ## Bytecode-viewer:
 
