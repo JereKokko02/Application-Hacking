@@ -126,6 +126,9 @@ Ajoin komennon "binwalk -e h1.jpg" jotta saisin haettua kuvaan piilotetut tiedos
 
 Kyseisellä tiedostolla ei ole mitään erityistä sisältöä enkä löytänyt mitään mikä viittaisi lippuun. Olettaisin että sellaista ei ole, sillä sitä ei mainita tehtävänannossa.
 
+Tuo .zip tiedosto on docx-tiedosto mutta en tiedä miten sen saisi linuxilla avattua.
+
+
 Varmistin vielä kuitenkin ettei tiedostossa ole mitään muuta piilotettua käyttämällä työkalua nimeltä "exiftool"
 
 <br/>
