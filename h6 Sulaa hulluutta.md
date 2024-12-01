@@ -235,11 +235,21 @@ Tällä työkalulla voikin sitten löytää samalla tavalla haavoittuvuuksia ja 
 
 ## Bytecode-viewer:
 
+<br/>
+
 Ohjelman asennus githubista latauksen jälkeen:
+
+<br/>
+
 ![image](https://github.com/user-attachments/assets/53cb6dda-da87-4465-b4a6-8ce1d628fe89)
 
 apk avattuna:
+
+<br/>
+
 ![image](https://github.com/user-attachments/assets/033c6b31-b285-4904-acfd-25a17cedce13)
+
+<br/>
 
 Tässä vaiheessa ei voida muuttaa manifestia luettavaan muotoon sillä se pitäisi tehdä esimerkiksi jadx:sää käyttäen.
 
