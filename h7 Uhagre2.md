@@ -12,14 +12,30 @@
 
 
 
+# x) Lue/katso/kuuntele ja tiivistä. (Tässä x-alakohdassa ei tarvitse tehdä testejä tietokoneella, vain lukeminen tai kuunteleminen ja tiivistelmä riittää. Tiivistämiseen riittää muutama ranskalainen viiva.)
 
+1. Schneier 2015: Applied Cryptography, 20ed: https://www.oreilly.com/library/view/applied-cryptography-protocols/9781119096726/08_chap01.html#chap01-sec001
+   
+   - Teoriaa salakirjoituksesta, esimerkkejä, kuvaavia kuvia jne.
+   - Code sanan historiaa sekä salauksen historiaa
+   - Salausavaimien ero public ja private sekä niitä käyttämällä salaus
+   - Esimerkkejä miten purkaa salauksia (Attack osiot)
+   - XOR -operaattorin selitys
+   - Large numbers = Esimerkkejä miten tieteellisesti kuvataan isoja numeroita ja miten niitä voi käyttää hyväkseen salauksessa
 
+2. Karvinen 2024: https://terokarvinen.com/python-for-hackers/
 
+   - REPL
+   - Import base64
+   - Pythonin toimintaa
+   - loopit
+   - Samoja asioita miten esimekiksi python perusteet kurssilla käydään (Ainakin syksyn 2024 toteutuksella)
+   - Tässä siis kerrotaan miten teet toimivaa python koodia ja annetaan esimerkkejä eri tilanteista kuten looppien tekemisestä ja niiden rikkomisesta.
 
-
-
-
-
+<br/>
+<br/>
+<br/>
+<br/>
 
 # a) 1. Convert hex to base64.
 
