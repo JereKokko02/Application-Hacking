@@ -49,6 +49,10 @@ Tässä on kyseisten ohjelmien versiot:
 <br/>
 <br/>
 
+# Ratkaise CryptoPals Set 1 -haasteet. https://cryptopals.com/sets/1
+
+<br/>
+
 # a) 1. Convert hex to base64.
 
 <br/>
@@ -64,8 +68,13 @@ Ratkaisu:
 ![image](https://github.com/user-attachments/assets/77885e6b-f608-4bec-bd53-3f053dd1a87b)
 
 <br/>
+<br/>
+<br/>
+<br/>
 
 # b) 2. Fixed XOR.
+
+<br/>
 
 ![image](https://github.com/user-attachments/assets/da7df93b-4aad-477b-b1bf-43049bb41120)
 
@@ -77,6 +86,9 @@ Ratkaisu:
 
 ![image](https://github.com/user-attachments/assets/238ecb91-7076-40db-a077-abde6faa6746)
 
+<br/>
+<br/>
+<br/>
 <br/>
 
 # c) 3. Single-byte XOR cipher.
@@ -105,11 +117,31 @@ Ja tässä on koodin tulostus:
 
 ![image](https://github.com/user-attachments/assets/22a8db05-caa8-4358-99af-7ff75c26a798)
 
+<br/>
+
 Ratkaiseva avain oli siis X
+
+<br/>
+<br/>
+<br/>
+<br/>
 
 # 4. Detect single-character XOR.
 
 Tätä tehtävää en valitettavasti saanut edes gpt:n avulla tehtyä. Nyt en valitettavasti pääse ilahduttamaan.
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+## Tehtävissä myös hyödynnetyt lähteet:
+
+1. https://www.scaler.com/topics/xor-in-python/ | Luettu 7.12.2024
 
 
 
