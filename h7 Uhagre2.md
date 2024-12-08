@@ -93,7 +93,7 @@ Ratkaisu:
 
 # c) 3. Single-byte XOR cipher.
 
-Tässä vaiheessa koodaaminen meni oman osaamisen yli ja päädyin käyttämään apuna chatgpt:tä. Yritin aluksi saada tehtävän ratkaistua vain kysymällä vinkkejä tekoälyltä mutta useamman päivän yrityksen jälkeen en vain saanut tehtävää ratkaistua. Tässä tehtävässä näytän siis miten gpt tehtävän ratkaisi.
+Tässä vaiheessa koodaaminen meni oman osaamisen yli ja päädyin käyttämään apuna chatgpt:tä. Yritin aluksi saada tehtävän ratkaistua vain kysymällä vinkkejä tekoälyltä mutta useamman päivän yrityksen jälkeen en vain saanut tehtävää ratkaistua. Tässä tehtävässä näytän vain miten gpt tehtävän ratkaisi.
 
 Tässä näkyy antamani prompti:
 
