@@ -1,5 +1,8 @@
 
-1.
+# a) 1. Convert hex to base64.
+
+<br/>
+
 ![image](https://github.com/user-attachments/assets/45280b12-adc0-43cf-8cc4-0dd8ee0f6499)
 
 <br/>
@@ -12,7 +15,8 @@ Ratkaisu:
 
 <br/>
 
-2.
+# b) 2. Fixed XOR.
+
 ![image](https://github.com/user-attachments/assets/da7df93b-4aad-477b-b1bf-43049bb41120)
 
 <br/>
